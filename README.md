@@ -21,6 +21,7 @@
 
 ---
 ### 📝 I also sometimes write!
+- [Using Web Scraping to Create a Patch Notes Bot in Python](https://www.linkedin.com/pulse/using-web-scraping-create-patch-notes-bot-python-edward-barton/)
 - ["Proper Languages": Who Does This Help?](https://www.linkedin.com/pulse/proper-languages-who-does-help-edward-barton)
 - [Digitizing Sprites and Textures Through Code for DOOMify](https://www.linkedin.com/pulse/digitizing-sprites-textures-through-code-doomify-edward-barton/)
 - [Code it to Learn it: Using Programming as a Study Tool](https://www.linkedin.com/pulse/code-learn-using-programming-study-tool-edward-barton/)
