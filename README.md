@@ -18,6 +18,7 @@
 ![](https://img.shields.io/badge/VS-Git-E01142?style=flat&logoColor=white&logo=git)
 ![](https://img.shields.io/badge/Terminal-Bash-E01142?style=flat&logoColor=white&logo=gnubash)
 ![](https://img.shields.io/badge/Toolkits-Qt-E01142?style=flat&logoColor=white&logo=qt)
+![](https://img.shields.io/badge/Hardware-Raspberry_Pi-E01142?style=flat&logoColor=white&logo=raspberrypi)
 
 ---
 ### 📝 I also sometimes write!
