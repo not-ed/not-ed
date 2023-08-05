@@ -1,9 +1,7 @@
 ## 👋 Hello, world. I am Edward Barton. 
 
-### 💻 I’m currently working on ...
-- ![🦊 Ahri](https://github.com/not-ed/ahri)
-- ![😈 DOOMify](https://github.com/not-ed/doomify)
-- 🤫 A secret game project (For the time being!)
+### 🤔 What have I been up to?
+![Metrics](https://metrics.lecoq.io/not-ed)
 
 ---
 ### 💾 What can I work with?
