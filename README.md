@@ -1,10 +1,28 @@
-## 👋 Hello, world. I am Edward Barton. 
+<div align="left">
+<img src="./greebles/dots.png">
+<img src="./greebles/hero-greeting.png">
+</div>
 
-### 🤔 What have I been up to?
+<img align="center" width=1021 height=1 src="./greebles/line.png">
+
+<div align="left">
+<img src="./greebles/header-about.png"></img>
+
+TODO
+</div>
+
+<img align="center" width=1021 height=1 src="./greebles/line.png">
+
+<div align="left">
+<img src="./greebles/header-history.png"></img>
+
 ![Metrics](https://metrics.lecoq.io/not-ed)
+</div>
 
----
-### 💾 What can I work with?
+<img align="center" width=1021 height=1 src="./greebles/line.png">
+
+<div align="left">
+<img src="./greebles/header-technologies.png"></img>
 
 ![](https://img.shields.io/badge/OS-Windows-E01142?style=flat&logoColor=white&logo=windows) 
 ![](https://img.shields.io/badge/OS-Ubuntu-E01142?style=flat&logoColor=white&logo=ubuntu)
@@ -17,13 +35,19 @@
 ![](https://img.shields.io/badge/Terminal-Bash-E01142?style=flat&logoColor=white&logo=gnubash)
 ![](https://img.shields.io/badge/Toolkits-Qt-E01142?style=flat&logoColor=white&logo=qt)
 ![](https://img.shields.io/badge/Hardware-Raspberry_Pi-E01142?style=flat&logoColor=white&logo=raspberrypi)
+</div>
 
----
-### 📝 I also sometimes write!
+<img align="center" width=1021 height=1 src="./greebles/line.png">
+
+<div align="left">
+<img src="./greebles/header-articles.png"></img>
+
 - [Using Web Scraping to Create a Patch Notes Bot in Python](https://www.linkedin.com/pulse/using-web-scraping-create-patch-notes-bot-python-edward-barton/)
 - ["Proper Languages": Who Does This Help?](https://www.linkedin.com/pulse/proper-languages-who-does-help-edward-barton)
 - [Digitizing Sprites and Textures Through Code for DOOMify](https://www.linkedin.com/pulse/digitizing-sprites-textures-through-code-doomify-edward-barton/)
 - [Code it to Learn it: Using Programming as a Study Tool](https://www.linkedin.com/pulse/code-learn-using-programming-study-tool-edward-barton/)
+</div>
+
 <!--
 **not-ed/not-ed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
