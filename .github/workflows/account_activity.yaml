@@ -1,0 +1,15 @@
+name: Account activity
+
+on:
+  # schedule:
+  # Every 30 mins
+    # - cron: '0,30 * * * *'
+
+  workflow_dispatch:
+
+jobs:
+  update_activity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Echo test
+      - run: echo 'Hello, world!'
