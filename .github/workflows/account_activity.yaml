@@ -14,10 +14,15 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Install Python dependencies
-        run: pip install -r requirements.txt
+        run: |
+          cd .github/workflows
+          pip install -r requirements.txt
 
       - name: Run fetch/update script
         run: python3 fetch.py
+
+      - name: Return to root of repo (test)
+        run: cd ../..
 
       - name: Display updated readme (test)
         run: cat README.md
