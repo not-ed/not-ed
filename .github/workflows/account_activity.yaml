@@ -19,5 +19,14 @@ jobs:
           pip install -r requirements.txt
           python3 fetch.py
 
-      - name: Display updated readme (test)
+      - name: (DEBUG) Display updated README
         run: cat README.md
+      
+      - name: Commit updated README
+        run: |
+          git config user.name "Github Action Runner"
+          git config user.email "github-actions@github.com"
+          git status
+          git add README.md
+          git commit -m "[GITHUB ACTION] Refreshed history in README ($(date))"
+          git push
