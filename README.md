@@ -19,6 +19,8 @@ TODO
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+:incoming_envelope: "[Updated history header image](https://github.com/not-ed/not-ed/commit/467c0f71639dfb4c3a3aecacd8c9889b583a9548)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+
 :incoming_envelope: "[Adjusted workflow/step names and added cron trigger for workflow](https://github.com/not-ed/not-ed/commit/2e5ece8f351b208dd0cf6ffdf1d218438d1549e6)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
 
 :incoming_envelope: "[Added workflow step for committing changes to README](https://github.com/not-ed/not-ed/commit/61bca9861bc6ab800b940e207492b8a3451de5d2)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
@@ -36,8 +38,6 @@ TODO
 :x: Deleted `test-tag-2` tag in [not-ed/events-sandbox](https://github.com/not-ed/events-sandbox).
 
 :x: Deleted `test-tag-3` tag in [not-ed/events-sandbox](https://github.com/not-ed/events-sandbox).
-
-:bookmark: Created [test-tag-2](https://github.com/not-ed/events-sandbox/releases/tag/test-tag-2) tag on [not-ed/events-sandbox](https://github.com/not-ed/events-sandbox).
 
 <!-- HISTORY_END -->
 
