@@ -13,16 +13,11 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Install Python dependencies
+      - name: Install Python dependencies and run fetch script
         run: |
           cd .github/workflows
           pip install -r requirements.txt
-
-      - name: Run fetch/update script
-        run: python3 fetch.py
-
-      - name: Return to root of repo (test)
-        run: cd ../..
+          python3 fetch.py
 
       - name: Display updated readme (test)
         run: cat README.md
