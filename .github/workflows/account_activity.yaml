@@ -11,5 +11,13 @@ jobs:
   update_activity:
     runs-on: ubuntu-latest
     steps:
-      - name: Echo test
-        run: echo 'Hello, world!'
+      - uses: actions/checkout@v3
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run fetch/update script
+        run: python3 fetch.py
+
+      - name: Display updated readme (test)
+        run: cat README.md
