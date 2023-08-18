@@ -19,6 +19,8 @@ TODO
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+:incoming_envelope: "[Merging python-related calls into singular task to better understand relative paths when actions run](https://github.com/not-ed/not-ed/commit/d02383cf20f297746475ae00adda381f4993e54b)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+
 :incoming_envelope: "[Added cd steps to try and fix directory errors in workflow](https://github.com/not-ed/not-ed/commit/7cb826fafcf97e48295a5147cd612fbe9a62d76f)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
 
 :incoming_envelope: "[Added workflow steps for running the python fetch script](https://github.com/not-ed/not-ed/commit/7f94ec87e9d12e917271677d79dafd90a4b5cbfa)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
@@ -36,8 +38,6 @@ TODO
 :bookmark: Created [test-tag-3](https://github.com/not-ed/events-sandbox/releases/tag/test-tag-3) tag on [not-ed/events-sandbox](https://github.com/not-ed/events-sandbox).
 
 :x: Deleted `placeholder-branch` branch in [not-ed/events-sandbox](https://github.com/not-ed/events-sandbox).
-
-:star: Starred [thpatch/thcrap](https://github.com/thpatch/thcrap).
 
 <!-- HISTORY_END -->
 
