@@ -16,7 +16,13 @@ TODO
 <div align="left">
 <img src="./greebles/header-history.png"></img>
 
-![Metrics](https://metrics.lecoq.io/not-ed)
+<!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
+<!-- HISTORY_START -->
+
+
+
+<!-- HISTORY_END -->
+
 </div>
 
 <img align="center" width=1021 height=1 src="./greebles/line.png">
@@ -47,18 +53,3 @@ TODO
 - [Digitizing Sprites and Textures Through Code for DOOMify](https://www.linkedin.com/pulse/digitizing-sprites-textures-through-code-doomify-edward-barton/)
 - [Code it to Learn it: Using Programming as a Study Tool](https://www.linkedin.com/pulse/code-learn-using-programming-study-tool-edward-barton/)
 </div>
-
-<!--
-**not-ed/not-ed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
