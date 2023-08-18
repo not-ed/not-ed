@@ -19,7 +19,25 @@ TODO
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+:incoming_envelope: "[Added cd steps to try and fix directory errors in workflow](https://github.com/not-ed/not-ed/commit/7cb826fafcf97e48295a5147cd612fbe9a62d76f)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
 
+:incoming_envelope: "[Added workflow steps for running the python fetch script](https://github.com/not-ed/not-ed/commit/7f94ec87e9d12e917271677d79dafd90a4b5cbfa)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+
+:incoming_envelope: "[Fixed syntax error for getting test workflow to run](https://github.com/not-ed/not-ed/commit/e84215f646cf6772c6f0789466a8cbd46dc9779b)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+
+:incoming_envelope: "[Written (most of) Python script for updating README contents.](https://github.com/not-ed/not-ed/commit/1e43b4e98d27bf0a997b24e0148fee90117fffd1)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+
+:x: Deleted `test-tag-2` tag in [not-ed/events-sandbox](https://github.com/not-ed/events-sandbox).
+
+:x: Deleted `test-tag-3` tag in [not-ed/events-sandbox](https://github.com/not-ed/events-sandbox).
+
+:bookmark: Created [test-tag-2](https://github.com/not-ed/events-sandbox/releases/tag/test-tag-2) tag on [not-ed/events-sandbox](https://github.com/not-ed/events-sandbox).
+
+:bookmark: Created [test-tag-3](https://github.com/not-ed/events-sandbox/releases/tag/test-tag-3) tag on [not-ed/events-sandbox](https://github.com/not-ed/events-sandbox).
+
+:x: Deleted `placeholder-branch` branch in [not-ed/events-sandbox](https://github.com/not-ed/events-sandbox).
+
+:star: Starred [thpatch/thcrap](https://github.com/thpatch/thcrap).
 
 <!-- HISTORY_END -->
 
