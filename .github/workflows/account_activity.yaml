@@ -24,9 +24,14 @@ jobs:
       
       - name: Commit updated README
         run: |
+          if [ ! -z "$(git status -s)" ]; 
+          then
           git config user.name "Github Action Runner"
           git config user.email "github-actions@github.com"
           git status
           git add README.md
           git commit -m "[GITHUB ACTION] Refreshed history in README ($(date))"
           git push
+          else
+          echo "There's no changes to the readme - will not attempt commit"
+          fi
