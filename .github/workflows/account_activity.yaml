@@ -1,9 +1,9 @@
-name: Account activity
+name: Dynamic README Event Log
 
 on:
-  # schedule:
+  schedule:
   # Every 30 mins
-    # - cron: '0,30 * * * *'
+    - cron: '0,30 * * * *'
 
   workflow_dispatch:
 
@@ -13,13 +13,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Install Python dependencies and run fetch script
+      - name: Install Python dependencies and run Fetch / README update script
         run: |
           cd .github/workflows
           pip install -r requirements.txt
           python3 fetch.py
 
-      - name: (DEBUG) Display updated README
+      - name: (DEBUG) Print README changes
         run: cat README.md
       
       - name: Commit updated README
