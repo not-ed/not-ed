@@ -19,6 +19,10 @@ TODO
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+:incoming_envelope: "[Adjusted workflow/step names and added cron trigger for workflow](https://github.com/not-ed/not-ed/commit/2e5ece8f351b208dd0cf6ffdf1d218438d1549e6)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+
+:incoming_envelope: "[Added workflow step for committing changes to README](https://github.com/not-ed/not-ed/commit/61bca9861bc6ab800b940e207492b8a3451de5d2)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+
 :incoming_envelope: "[Merging python-related calls into singular task to better understand relative paths when actions run](https://github.com/not-ed/not-ed/commit/d02383cf20f297746475ae00adda381f4993e54b)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
 
 :incoming_envelope: "[Added cd steps to try and fix directory errors in workflow](https://github.com/not-ed/not-ed/commit/7cb826fafcf97e48295a5147cd612fbe9a62d76f)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
@@ -34,10 +38,6 @@ TODO
 :x: Deleted `test-tag-3` tag in [not-ed/events-sandbox](https://github.com/not-ed/events-sandbox).
 
 :bookmark: Created [test-tag-2](https://github.com/not-ed/events-sandbox/releases/tag/test-tag-2) tag on [not-ed/events-sandbox](https://github.com/not-ed/events-sandbox).
-
-:bookmark: Created [test-tag-3](https://github.com/not-ed/events-sandbox/releases/tag/test-tag-3) tag on [not-ed/events-sandbox](https://github.com/not-ed/events-sandbox).
-
-:x: Deleted `placeholder-branch` branch in [not-ed/events-sandbox](https://github.com/not-ed/events-sandbox).
 
 <!-- HISTORY_END -->
 
