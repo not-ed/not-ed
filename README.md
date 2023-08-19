@@ -1,12 +1,12 @@
 <div align="left">
 <img src="./greebles/dots.png">
-<img src="./greebles/hero-greeting.png">
+<img src="./greebles/hero-greeting.png" alt="Hello, world. I am Edward Barton.">
 </div>
 
 <img align="center" width=1021 height=1 src="./greebles/line.png">
 
 <div align="left">
-<img src="./greebles/header-about.png"></img>
+<img src="./greebles/header-about.png" alt="Who am I?"></img>
 
 TODO
 </div>
@@ -14,7 +14,7 @@ TODO
 <img align="center" width=1021 height=1 src="./greebles/line.png">
 
 <div align="left">
-<img src="./greebles/header-history.png"></img>
+<img src="./greebles/header-history.png" alt="What have I been up to?"></img>
 
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
@@ -50,7 +50,7 @@ TODO
 <img align="center" width=1021 height=1 src="./greebles/line.png">
 
 <div align="left">
-<img src="./greebles/header-technologies.png"></img>
+<img src="./greebles/header-technologies.png" alt="What can I work with?"></img>
 
 ![](https://img.shields.io/badge/OS-Windows-E01142?style=flat&logoColor=white&logo=windows) 
 ![](https://img.shields.io/badge/OS-Ubuntu-E01142?style=flat&logoColor=white&logo=ubuntu)
@@ -65,7 +65,7 @@ TODO
 ![](https://img.shields.io/badge/Hardware-Raspberry_Pi-E01142?style=flat&logoColor=white&logo=raspberrypi)
 </div>
 
-<img align="center" width=1021 height=1 src="./greebles/line.png">
+<img align="center" width=1021 height=1 src="./greebles/line.png" alt="My writings">
 
 <div align="left">
 <img src="./greebles/header-articles.png"></img>
