@@ -21,6 +21,8 @@ TODO
 
 > ### Sat. 19 August
 >
+> :incoming_envelope: "[Added alt text for header images](https://github.com/not-ed/not-ed/commit/74084d1fe7804801badcab0754cac06b4fa53c71)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+>
 > :incoming_envelope: "[Added logic for grouping events by date](https://github.com/not-ed/not-ed/commit/ad42fa6f64ba1e3314de48130c74d2999dad7c0f)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
 
 > ### Fri. 18 August
