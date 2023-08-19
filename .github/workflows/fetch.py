@@ -8,27 +8,32 @@ GITHUB_EVENTS_API_BASE_URL = "https://api.github.com/users/not-ed/events"
 README_FILE_PATH = "../../README.md"
 MAX_EVENTS = 10
 
+def ShieldsBadge(text, color):
+    url_text = text.replace(" ","%20")
+    badge_url = "https://img.shields.io/badge/{}-{}?style=flat-square".format(url_text, color)
+    return "![{}]({}) ".format(text, badge_url)
+
 def FormatCommitCommentEvent(event):
     # TODO: include author of commit
     repo_name = event["repo"]["name"]
     repo_url = GITHUB_BASE_URL + repo_name
     comment_url = event["payload"]["comment"]["html_url"]
-    return (":speech_balloon: Commented on a [commit]({}) to [{}]({}).".format(comment_url, repo_name, repo_url))
+    return (ShieldsBadge("COMMENT","1173E0") + "Commented on a [commit]({}) to [{}]({}).".format(comment_url, repo_name, repo_url))
 
 def FormatCreateEvent(event):
     created_type = event["payload"]["ref_type"]
     repo_name = event["repo"]["name"]
     repo_url = GITHUB_BASE_URL + repo_name
     if created_type == "repository":    
-        return (":pencil2: Created repository [{}]({}).".format(repo_name,repo_url))
+        return (ShieldsBadge("CREATE","11E05E")+ "Created repository [{}]({}).".format(repo_name,repo_url))
     elif created_type == "branch":
         branch_name = event["payload"]["ref"]
         branch_url = GITHUB_BASE_URL + repo_name + "/tree/" + branch_name
-        return (":herb: Created [{}]({}) branch on [{}]({}).".format(branch_name, branch_url, repo_name ,repo_url))
+        return (ShieldsBadge("CREATE","11E05E") + "Created [{}]({}) branch on [{}]({}).".format(branch_name, branch_url, repo_name ,repo_url))
     elif created_type == "tag":
         tag_name = event["payload"]["ref"]
         tag_url = GITHUB_BASE_URL + repo_name + "/releases/tag/" + tag_name
-        return (":bookmark: Created [{}]({}) tag on [{}]({}).".format(tag_name, tag_url, repo_name ,repo_url))
+        return (ShieldsBadge("CREATE","11E05E") + "Created [{}]({}) tag on [{}]({}).".format(tag_name, tag_url, repo_name ,repo_url))
     else:
         FormatUnknownEvent(event)
 
@@ -38,9 +43,9 @@ def FormatDeleteEvent(event):
     deleted_type = event["payload"]["ref_type"]
     deleted_name = event["payload"]["ref"]
     if deleted_type == "branch":
-        return (":x: Deleted `{}` branch in [{}]({}).".format(deleted_name, repo_name, repo_url))
+        return (ShieldsBadge("DELETE","E01142") + "Deleted `{}` branch in [{}]({}).".format(deleted_name, repo_name, repo_url))
     elif deleted_type == "tag":
-        return (":x: Deleted `{}` tag in [{}]({}).".format(deleted_name, repo_name, repo_url))
+        return (ShieldsBadge("DELETE","E01142") + "Deleted `{}` tag in [{}]({}).".format(deleted_name, repo_name, repo_url))
     else:
         FormatUnknownEvent(event)
 
@@ -49,7 +54,7 @@ def FormatForkEvent(event):
     original_repo_url = GITHUB_BASE_URL + original_repo_name
     forked_repo_name = event["payload"]["forkee"]["full_name"]
     forked_repo_url = GITHUB_BASE_URL + forked_repo_name
-    return (":trident: Forked [{}]({}) into [{}]({}).".format(original_repo_name, original_repo_url, forked_repo_name, forked_repo_url))
+    return (ShieldsBadge("FORK", "CC11E0") + "Forked [{}]({}) into [{}]({}).".format(original_repo_name, original_repo_url, forked_repo_name, forked_repo_url))
     
 #TODO
 def FormatGollumEvent(event):
@@ -96,17 +101,17 @@ def FormatPushEvent(event):
     if commits_pushed == 1:
         commit_message = str(event["payload"]["commits"][0]["message"] ).split("\n")[0]
         commit_url = GITHUB_BASE_URL + repo_name + "/commit/" +(event["payload"]["commits"][0]["sha"])
-        return (":incoming_envelope: \"[{}]({})\" in [{}]({}).".format(commit_message, commit_url, repo_name, repo_url))
+        return (ShieldsBadge("COMMIT","1173E0") + "\"[{}]({})\" in [{}]({}).".format(commit_message, commit_url, repo_name, repo_url))
     else:
         # TODO: commit links
-        return (":incoming_envelope: Pushed {} commits to [{}]({}).".format(commits_pushed,repo_name,repo_url))
+        return (ShieldsBadge("COMMIT","1173E0") + "Pushed {} commits to [{}]({}).".format(commits_pushed,repo_name,repo_url))
     
 def FormatReleaseEvent(event):
     repo_name = event["repo"]["name"]
     repo_url = GITHUB_BASE_URL + repo_name
     release_title = event["payload"]["release"]["name"]
     release_url = event["payload"]["release"]["html_url"]
-    return (":ship: Published a new release of [{}]({}) ([{}]({})).".format(repo_name, repo_url, release_title, release_url))
+    return (ShieldsBadge("RELEASE", "11E05E") + "Published a new release of [{}]({}) ([{}]({})).".format(repo_name, repo_url, release_title, release_url))
     
 #TODO
 def FormatSponsorshipEvent(event):
@@ -116,7 +121,7 @@ def FormatSponsorshipEvent(event):
 def FormatWatchEvent(event):
     repo_name = event["repo"]["name"]
     repo_url = GITHUB_BASE_URL + repo_name
-    return (":star: Starred [{}]({}).".format(repo_name, repo_url))
+    return (ShieldsBadge("STAR", "F1CE12") + "Starred [{}]({}).".format(repo_name, repo_url))
     
 #TODO
 def FormatUnknownEvent(event):
