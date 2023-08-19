@@ -1,6 +1,7 @@
 import requests
 import io
 import re
+from datetime import datetime
 
 GITHUB_BASE_URL = "https://github.com/"
 GITHUB_EVENTS_API_BASE_URL = "https://api.github.com/users/not-ed/events"
@@ -121,6 +122,10 @@ def FormatWatchEvent(event):
 def FormatUnknownEvent(event):
     return None
 
+def FormatEventTime(event):
+    event_time = datetime.strptime(event["created_at"],"%Y-%m-%dT%H:%M:%SZ")
+    return event_time.strftime("%a. %d %B")
+
 def FormatEvent(event):
     event_type = event["type"]
     if event_type == "CommitCommentEvent":
@@ -160,20 +165,32 @@ def FormatEvent(event):
     else:
         return FormatUnknownEvent(event)
 
-get_events_response = requests.get(GITHUB_EVENTS_API_BASE_URL)
+read_events = {}
+read_event_count = 0
 
-read_events = []
+get_events_response = requests.get(GITHUB_EVENTS_API_BASE_URL)
 if get_events_response.ok:
     for event in get_events_response.json():
         event_text = FormatEvent(event)
         if event_text != None:
-            read_events.append(event_text + "\n\n")
-            if len(read_events) == MAX_EVENTS:
-                break
+            event_date = FormatEventTime(event)
+            if event_date not in read_events.keys():
+                if read_event_count >= MAX_EVENTS:
+                    break
+                read_events[event_date] = []
+            read_events[event_date].append(event_text)
+            read_event_count = read_event_count + 1
 
-    with io.open(README_FILE_PATH,"r") as readme:
-        contents = readme.read()
-        contents = re.sub("(<!-- HISTORY_START -->)((\n|.)*)(<!-- HISTORY_END -->)", "<!-- HISTORY_START -->\n\n{}<!-- HISTORY_END -->".format("".join(read_events)),contents)
+new_events_list = ""
+for date in read_events.keys():
+    new_events_list = new_events_list + "> ### {}\n".format(date)
+    for event in read_events[date]:
+        new_events_list = new_events_list +">\n> {}\n".format(event)
+    new_events_list = new_events_list + "\n"
 
-    with io.open(README_FILE_PATH, "w") as readme:
-        readme.write(contents)
+with io.open(README_FILE_PATH,"r") as readme:
+    contents = readme.read()
+    contents = re.sub("(<!-- HISTORY_START -->)((\n|.)*)(<!-- HISTORY_END -->)", "<!-- HISTORY_START -->\n\n{}<!-- HISTORY_END -->".format(new_events_list),contents)
+
+with io.open(README_FILE_PATH, "w") as readme:
+    readme.write(contents)
