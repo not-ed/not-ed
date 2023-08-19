@@ -19,25 +19,29 @@ TODO
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
-:incoming_envelope: Pushed 2 commits to [not-ed/not-ed](https://github.com/not-ed/not-ed).
+> ### Sat. 19 August
+>
+> :incoming_envelope: "[Added logic for grouping events by date](https://github.com/not-ed/not-ed/commit/ad42fa6f64ba1e3314de48130c74d2999dad7c0f)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
 
-:incoming_envelope: "[Updated history header image](https://github.com/not-ed/not-ed/commit/467c0f71639dfb4c3a3aecacd8c9889b583a9548)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
-:incoming_envelope: "[Adjusted workflow/step names and added cron trigger for workflow](https://github.com/not-ed/not-ed/commit/2e5ece8f351b208dd0cf6ffdf1d218438d1549e6)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
-:incoming_envelope: "[Added workflow step for committing changes to README](https://github.com/not-ed/not-ed/commit/61bca9861bc6ab800b940e207492b8a3451de5d2)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
-:incoming_envelope: "[Merging python-related calls into singular task to better understand relative paths when actions run](https://github.com/not-ed/not-ed/commit/d02383cf20f297746475ae00adda381f4993e54b)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
-:incoming_envelope: "[Added cd steps to try and fix directory errors in workflow](https://github.com/not-ed/not-ed/commit/7cb826fafcf97e48295a5147cd612fbe9a62d76f)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
-:incoming_envelope: "[Added workflow steps for running the python fetch script](https://github.com/not-ed/not-ed/commit/7f94ec87e9d12e917271677d79dafd90a4b5cbfa)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
-:incoming_envelope: "[Fixed syntax error for getting test workflow to run](https://github.com/not-ed/not-ed/commit/e84215f646cf6772c6f0789466a8cbd46dc9779b)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
-:incoming_envelope: "[Written (most of) Python script for updating README contents.](https://github.com/not-ed/not-ed/commit/1e43b4e98d27bf0a997b24e0148fee90117fffd1)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
-:x: Deleted `test-tag-2` tag in [not-ed/events-sandbox](https://github.com/not-ed/events-sandbox).
+> ### Fri. 18 August
+>
+> :incoming_envelope: Pushed 2 commits to [not-ed/not-ed](https://github.com/not-ed/not-ed).
+>
+> :incoming_envelope: "[Updated history header image](https://github.com/not-ed/not-ed/commit/467c0f71639dfb4c3a3aecacd8c9889b583a9548)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+>
+> :incoming_envelope: "[Adjusted workflow/step names and added cron trigger for workflow](https://github.com/not-ed/not-ed/commit/2e5ece8f351b208dd0cf6ffdf1d218438d1549e6)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+>
+> :incoming_envelope: "[Added workflow step for committing changes to README](https://github.com/not-ed/not-ed/commit/61bca9861bc6ab800b940e207492b8a3451de5d2)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+>
+> :incoming_envelope: "[Merging python-related calls into singular task to better understand relative paths when actions run](https://github.com/not-ed/not-ed/commit/d02383cf20f297746475ae00adda381f4993e54b)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+>
+> :incoming_envelope: "[Added cd steps to try and fix directory errors in workflow](https://github.com/not-ed/not-ed/commit/7cb826fafcf97e48295a5147cd612fbe9a62d76f)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+>
+> :incoming_envelope: "[Added workflow steps for running the python fetch script](https://github.com/not-ed/not-ed/commit/7f94ec87e9d12e917271677d79dafd90a4b5cbfa)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+>
+> :incoming_envelope: "[Fixed syntax error for getting test workflow to run](https://github.com/not-ed/not-ed/commit/e84215f646cf6772c6f0789466a8cbd46dc9779b)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+>
+> :incoming_envelope: "[Written (most of) Python script for updating README contents.](https://github.com/not-ed/not-ed/commit/1e43b4e98d27bf0a997b24e0148fee90117fffd1)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
 
 <!-- HISTORY_END -->
 
