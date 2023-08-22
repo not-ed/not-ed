@@ -19,6 +19,10 @@ TODO
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Tue. 22 August
+>
+> ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [microsoft/python-in-excel](https://github.com/microsoft/python-in-excel).
+
 > ### Sat. 19 August
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed 2 commits to [not-ed/not-ed](https://github.com/not-ed/not-ed).
