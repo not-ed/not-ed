@@ -67,17 +67,26 @@
 <div align="left">
 <img src="./greebles/header-technologies.png" alt="What can I work with?"></img>
 
-![](https://img.shields.io/badge/OS-Windows-E01142?style=flat&logoColor=white&logo=windows) 
-![](https://img.shields.io/badge/OS-Ubuntu-E01142?style=flat&logoColor=white&logo=ubuntu)
-![](https://img.shields.io/badge/Code-C++-E01142?style=flat&logoColor=white&logo=cplusplus)
-![](https://img.shields.io/badge/Code-Python_3-E01142?style=flat&logoColor=white&logo=python)
-![](https://img.shields.io/badge/Editor-VSCode-E01142?style=flat&logoColor=white&logo=visualstudiocode)
-![](https://img.shields.io/badge/Editor-Visual_Studio-E01142?style=flat&logoColor=white&logo=VisualStudio)
-![](https://img.shields.io/badge/Game_Engines-Unity-E01142?style=flat&logoColor=white&logo=unity)
-![](https://img.shields.io/badge/VS-Git-E01142?style=flat&logoColor=white&logo=git)
-![](https://img.shields.io/badge/Terminal-Bash-E01142?style=flat&logoColor=white&logo=gnubash)
-![](https://img.shields.io/badge/Toolkits-Qt-E01142?style=flat&logoColor=white&logo=qt)
-![](https://img.shields.io/badge/Hardware-Raspberry_Pi-E01142?style=flat&logoColor=white&logo=raspberrypi)
+Professionally, I've worked with:
+- C#
+- .NET
+- NUnit
+- PostgreSQL
+- SQL Server
+- NHibernate
+
+Through my own projects or curiosity, I have also worked with:
+- Ubuntu and Debian
+- C++
+- CMake
+- Python
+- Git
+- Bash
+- Raspberry Pi OS
+- Qt
+
+I am also AZ-900 (Microsoft Azure Fundamentals) Certified.
+
 </div>
 
 <img align="center" width=1021 height=1 src="./greebles/line.png" alt="My writings">
