@@ -8,7 +8,10 @@
 <div align="left">
 <img src="./greebles/header-about.png" alt="Who am I?"></img>
 
-TODO
+- :student: Final-year CompSci student at [Staffordshire University](https://www.staffs.ac.uk/) specializing in Software Development and Engineering.
+- :computer: Currently working as a Backend Developer on-placement at [Codeweavers](https://www.codeweavers.net/).
+- :video_game: Former background in GameDev, with previous experience as a Games Tester.
+ 
 </div>
 
 <img align="center" width=1021 height=1 src="./greebles/line.png">
