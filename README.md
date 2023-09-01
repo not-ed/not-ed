@@ -76,32 +76,32 @@ In professional roles, I've worked with:
 <table align="center">
 <tr>
 <td align="center">
-<img height=48 src="./greebles/tech/csharp.png">
+<img width=48 height=48 src="./greebles/tech/csharp.png">
 
 C#
 </td>
 <td align="center">
-<img height=48 src="./greebles/tech/dotnet.png">
+<img width=48 height=48 src="./greebles/tech/dotnet.png">
 
 .NET
 </td>
 <td align="center">
-<img height=48 src="./greebles/tech/nunit.png">
+<img width=48 height=48 src="./greebles/tech/nunit.png">
 
 NUnit
 </td>
 <td align="center">
-<img height=48 src="./greebles/tech/postgresql.png">
+<img width=48 height=48 src="./greebles/tech/postgresql.png">
 
 PostgreSQL
 </td>
 <td align="center">
-<img height=48 src="./greebles/tech/sqlserver.png">
+<img width=48 height=48 src="./greebles/tech/sqlserver.png">
 
 SQL Server
 </td>
 <td align="center">
-<img height=48 src="./greebles/tech/nhibernate.png">
+<img width=48 height=48 src="./greebles/tech/nhibernate.png">
 
 NHibernate
 </td>
@@ -113,43 +113,43 @@ Through my own projects or curiosity, I have also worked with:
 <table align="center">
 <tr>
 <td align="center">
-<img height=48 src="./greebles/tech/ubuntu.png">
-<img height=48 src="./greebles/tech/debian.png">
+<img width=48 height=48 src="./greebles/tech/ubuntu.png">
+<img width=48 height=48 src="./greebles/tech/debian.png">
 
 Ubuntu / Debian
 </td>
 <td align="center">
-<img height=48 src="./greebles/tech/cplusplus.png">
+<img width=48 height=48 src="./greebles/tech/cplusplus.png">
 
 C++
 </td>
 <td align="center">
-<img height=48 src="./greebles/tech/python.png">
+<img width=48 height=48 src="./greebles/tech/python.png">
 
 Python
 </td>
 <td align="center">
-<img height=48 src="./greebles/tech/git.png">
+<img width=48 height=48 src="./greebles/tech/git.png">
 
 Git
 </td>
 <td align="center">
-<img height=48 src="./greebles/tech/bash.png">
+<img width=48 height=48 src="./greebles/tech/bash.png">
 
 Bash
 </td>
 <td align="center">
-<img height=48 src="./greebles/tech/raspberrypi.png">
+<img width=48 height=48 src="./greebles/tech/raspberrypi.png">
 
 Raspberry Pi OS
 </td>
 <td align="center">
-<img height=48 src="./greebles/tech/qt.png">
+<img width=48 height=48 src="./greebles/tech/qt.png">
 
 Qt
 </td>
 <td align="center">
-<img height=48 src="./greebles/tech/cmake.png">
+<img width=48 height=48 src="./greebles/tech/cmake.png">
 
 CMake
 </td>
