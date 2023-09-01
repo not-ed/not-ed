@@ -22,6 +22,10 @@
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Fri. 01 September
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added bullet points to 'Who am I?' section of README](https://github.com/not-ed/not-ed/commit/72ea8c7f165cf99e78be8d1c6f418386fd408001)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+
 > ### Tue. 22 August
 >
 > ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [microsoft/python-in-excel](https://github.com/microsoft/python-in-excel).
