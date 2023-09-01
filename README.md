@@ -69,25 +69,92 @@
 <div align="left">
 <img src="./greebles/header-technologies.png" alt="What can I work with?"></img>
 
-Professionally, I've worked with:
-- C#
-- .NET
-- NUnit
-- PostgreSQL
-- SQL Server
-- NHibernate
+In professional roles, I've worked with:
+
+<table align="center">
+<tr>
+<td align="center">
+<img height=48 src="./greebles/tech/csharp.png">
+
+C#
+</td>
+<td align="center">
+<img height=48 src="./greebles/tech/dotnet.png">
+
+.NET
+</td>
+<td align="center">
+<img height=48 src="./greebles/tech/nunit.png">
+
+NUnit
+</td>
+<td align="center">
+<img height=48 src="./greebles/tech/postgresql.png">
+
+PostgreSQL
+</td>
+<td align="center">
+<img height=48 src="./greebles/tech/sqlserver.png">
+
+SQL Server
+</td>
+<td align="center">
+<img height=48 src="./greebles/tech/nhibernate.png">
+
+NHibernate
+</td>
+<tr>
+</table>
 
 Through my own projects or curiosity, I have also worked with:
-- Ubuntu and Debian
-- C++
-- CMake
-- Python
-- Git
-- Bash
-- Raspberry Pi OS
-- Qt
 
-I am also AZ-900 (Microsoft Azure Fundamentals) Certified.
+<table align="center">
+<tr>
+<td align="center">
+<img height=48 src="./greebles/tech/ubuntu.png">
+<img height=48 src="./greebles/tech/debian.png">
+
+Ubuntu / Debian
+</td>
+<td align="center">
+<img height=48 src="./greebles/tech/cplusplus.png">
+
+C++
+</td>
+<td align="center">
+<img height=48 src="./greebles/tech/python.png">
+
+Python
+</td>
+<td align="center">
+<img height=48 src="./greebles/tech/git.png">
+
+Git
+</td>
+<td align="center">
+<img height=48 src="./greebles/tech/bash.png">
+
+Bash
+</td>
+<td align="center">
+<img height=48 src="./greebles/tech/raspberrypi.png">
+
+Raspberry Pi OS
+</td>
+<td align="center">
+<img height=48 src="./greebles/tech/qt.png">
+
+Qt
+</td>
+<td align="center">
+<img height=48 src="./greebles/tech/cmake.png">
+
+CMake
+</td>
+</tr>
+</table>
+
+*I am also [AZ-900 (Microsoft Azure Fundamentals) Certified](https://learn.microsoft.com/en-gb/users/not-ed/credentials/84505f8dcf8a6f35)* :grin:.
 
 </div>
 
