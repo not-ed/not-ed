@@ -24,6 +24,8 @@
 
 > ### Fri. 01 September
 >
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added icons/images for technologies section of README](https://github.com/not-ed/not-ed/commit/8e535bdd5edea13246ad840378ca3ee447e0750c)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+>
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated Technologies section of README with (temporarily) unformatted list](https://github.com/not-ed/not-ed/commit/9ae972d1fa212784751c55f9d2964b2c9d3e6f75)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added bullet points to 'Who am I?' section of README](https://github.com/not-ed/not-ed/commit/72ea8c7f165cf99e78be8d1c6f418386fd408001)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
