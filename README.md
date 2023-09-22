@@ -118,6 +118,8 @@ CMake
 
 > ### Fri. 22 September
 >
+> ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [refreshing-palette-list](https://github.com/not-ed/doomify/tree/refreshing-palette-list) branch on [not-ed/doomify](https://github.com/not-ed/doomify).
+>
 > ![DELETE](https://img.shields.io/badge/DELETE-E01142?style=flat-square) Deleted `sqlite` branch in [not-ed/doomify](https://github.com/not-ed/doomify).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Removed SQLite as a project dependency.](https://github.com/not-ed/doomify/commit/8730cbb6faae763f22bc7075114281d7227cb7de)" in [not-ed/doomify](https://github.com/not-ed/doomify).
@@ -141,14 +143,6 @@ CMake
 > ### Tue. 22 August
 >
 > ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [microsoft/python-in-excel](https://github.com/microsoft/python-in-excel).
-
-> ### Sat. 19 August
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed 2 commits to [not-ed/not-ed](https://github.com/not-ed/not-ed).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added alt text for header images](https://github.com/not-ed/not-ed/commit/74084d1fe7804801badcab0754cac06b4fa53c71)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added logic for grouping events by date](https://github.com/not-ed/not-ed/commit/ad42fa6f64ba1e3314de48130c74d2999dad7c0f)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
 
 <!-- HISTORY_END -->
 
