@@ -118,6 +118,8 @@ CMake
 
 > ### Fri. 22 September
 >
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Show Palettes Directory button to UI and connected signal/slot in PaletteManager](https://github.com/not-ed/doomify/commit/be9e2de781f4b0735043065e8f8ea5845a7bcc5d)" in [not-ed/doomify](https://github.com/not-ed/doomify).
+>
 > ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [refreshing-palette-list](https://github.com/not-ed/doomify/tree/refreshing-palette-list) branch on [not-ed/doomify](https://github.com/not-ed/doomify).
 >
 > ![DELETE](https://img.shields.io/badge/DELETE-E01142?style=flat-square) Deleted `sqlite` branch in [not-ed/doomify](https://github.com/not-ed/doomify).
@@ -139,10 +141,6 @@ CMake
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated Technologies section of README with (temporarily) unformatted list](https://github.com/not-ed/not-ed/commit/9ae972d1fa212784751c55f9d2964b2c9d3e6f75)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added bullet points to 'Who am I?' section of README](https://github.com/not-ed/not-ed/commit/72ea8c7f165cf99e78be8d1c6f418386fd408001)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
-> ### Tue. 22 August
->
-> ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [microsoft/python-in-excel](https://github.com/microsoft/python-in-excel).
 
 <!-- HISTORY_END -->
 
