@@ -116,34 +116,6 @@ CMake
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
-> ### Sat. 16 September
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated public resume](https://github.com/not-ed/not-ed.github.io/commit/4980030a5d6518b312be991e6c8f877e9fcd10e9)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
-
-> ### Fri. 01 September
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Repositioned technologies section in README](https://github.com/not-ed/not-ed/commit/a3323dd8132b02637ce6701f0f2b203c3f89641b)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added width parameter to technologies icons to prevent skewing on mobile](https://github.com/not-ed/not-ed/commit/156ea49c60d65fd547573f2303e3d79058e61cfa)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added icons/images for technologies section of README](https://github.com/not-ed/not-ed/commit/8e535bdd5edea13246ad840378ca3ee447e0750c)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated Technologies section of README with (temporarily) unformatted list](https://github.com/not-ed/not-ed/commit/9ae972d1fa212784751c55f9d2964b2c9d3e6f75)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added bullet points to 'Who am I?' section of README](https://github.com/not-ed/not-ed/commit/72ea8c7f165cf99e78be8d1c6f418386fd408001)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
-> ### Tue. 22 August
->
-> ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [microsoft/python-in-excel](https://github.com/microsoft/python-in-excel).
-
-> ### Sat. 19 August
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed 2 commits to [not-ed/not-ed](https://github.com/not-ed/not-ed).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added alt text for header images](https://github.com/not-ed/not-ed/commit/74084d1fe7804801badcab0754cac06b4fa53c71)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added logic for grouping events by date](https://github.com/not-ed/not-ed/commit/ad42fa6f64ba1e3314de48130c74d2999dad7c0f)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
 <!-- HISTORY_END -->
 
 </div>
