@@ -133,14 +133,6 @@ CMake
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated public resume](https://github.com/not-ed/not-ed.github.io/commit/4980030a5d6518b312be991e6c8f877e9fcd10e9)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
 
-> ### Fri. 01 September
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Repositioned technologies section in README](https://github.com/not-ed/not-ed/commit/a3323dd8132b02637ce6701f0f2b203c3f89641b)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added width parameter to technologies icons to prevent skewing on mobile](https://github.com/not-ed/not-ed/commit/156ea49c60d65fd547573f2303e3d79058e61cfa)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added icons/images for technologies section of README](https://github.com/not-ed/not-ed/commit/8e535bdd5edea13246ad840378ca3ee447e0750c)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
 <!-- HISTORY_END -->
 
 </div>
