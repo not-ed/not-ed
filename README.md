@@ -115,6 +115,24 @@ CMake
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Wed. 27 September
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Removed former position from About section](https://github.com/not-ed/not-ed/commit/bde92337b158ad72a00030fff10fca02540ceec9)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+
+> ### Fri. 22 September
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Show Palettes Directory button to UI and connected signal/slot in PaletteManager](https://github.com/not-ed/doomify/commit/be9e2de781f4b0735043065e8f8ea5845a7bcc5d)" in [not-ed/doomify](https://github.com/not-ed/doomify).
+>
+> ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [refreshing-palette-list](https://github.com/not-ed/doomify/tree/refreshing-palette-list) branch on [not-ed/doomify](https://github.com/not-ed/doomify).
+>
+> ![DELETE](https://img.shields.io/badge/DELETE-E01142?style=flat-square) Deleted `sqlite` branch in [not-ed/doomify](https://github.com/not-ed/doomify).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Removed SQLite as a project dependency.](https://github.com/not-ed/doomify/commit/8730cbb6faae763f22bc7075114281d7227cb7de)" in [not-ed/doomify](https://github.com/not-ed/doomify).
+
+> ### Sat. 16 September
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated public resume](https://github.com/not-ed/not-ed.github.io/commit/4980030a5d6518b312be991e6c8f877e9fcd10e9)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
+
 <!-- HISTORY_END -->
 
 </div>
