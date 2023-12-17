@@ -129,10 +129,6 @@ CMake
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Removed SQLite as a project dependency.](https://github.com/not-ed/doomify/commit/8730cbb6faae763f22bc7075114281d7227cb7de)" in [not-ed/doomify](https://github.com/not-ed/doomify).
 
-> ### Sat. 16 September
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated public resume](https://github.com/not-ed/not-ed.github.io/commit/4980030a5d6518b312be991e6c8f877e9fcd10e9)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
-
 <!-- HISTORY_END -->
 
 </div>
