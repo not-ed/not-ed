@@ -119,12 +119,6 @@ CMake
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Removed former position from About section](https://github.com/not-ed/not-ed/commit/bde92337b158ad72a00030fff10fca02540ceec9)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
 
-> ### Fri. 22 September
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Show Palettes Directory button to UI and connected signal/slot in PaletteManager](https://github.com/not-ed/doomify/commit/be9e2de781f4b0735043065e8f8ea5845a7bcc5d)" in [not-ed/doomify](https://github.com/not-ed/doomify).
->
-> ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [refreshing-palette-list](https://github.com/not-ed/doomify/tree/refreshing-palette-list) branch on [not-ed/doomify](https://github.com/not-ed/doomify).
-
 <!-- HISTORY_END -->
 
 </div>
