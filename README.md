@@ -124,10 +124,6 @@ CMake
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Show Palettes Directory button to UI and connected signal/slot in PaletteManager](https://github.com/not-ed/doomify/commit/be9e2de781f4b0735043065e8f8ea5845a7bcc5d)" in [not-ed/doomify](https://github.com/not-ed/doomify).
 >
 > ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [refreshing-palette-list](https://github.com/not-ed/doomify/tree/refreshing-palette-list) branch on [not-ed/doomify](https://github.com/not-ed/doomify).
->
-> ![DELETE](https://img.shields.io/badge/DELETE-E01142?style=flat-square) Deleted `sqlite` branch in [not-ed/doomify](https://github.com/not-ed/doomify).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Removed SQLite as a project dependency.](https://github.com/not-ed/doomify/commit/8730cbb6faae763f22bc7075114281d7227cb7de)" in [not-ed/doomify](https://github.com/not-ed/doomify).
 
 <!-- HISTORY_END -->
 
