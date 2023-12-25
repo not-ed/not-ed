@@ -115,6 +115,10 @@ CMake
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Wed. 27 September
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Removed former position from About section](https://github.com/not-ed/not-ed/commit/bde92337b158ad72a00030fff10fca02540ceec9)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+
 <!-- HISTORY_END -->
 
 </div>
