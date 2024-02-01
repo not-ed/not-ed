@@ -115,10 +115,6 @@ CMake
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
-> ### Thu. 01 February
->
-> ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [calccrypto/Hashes](https://github.com/calccrypto/Hashes).
-
 <!-- HISTORY_END -->
 
 </div>
