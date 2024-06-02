@@ -115,6 +115,10 @@ CMake
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Sun. 02 June
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated 'About Me' photo](https://github.com/not-ed/not-ed.github.io/commit/812d8d7657f8375898f0960bc90e5f25c85a0cc5)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
+
 <!-- HISTORY_END -->
 
 </div>
