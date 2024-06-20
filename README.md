@@ -115,6 +115,10 @@ CMake
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Thu. 20 June
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Actions .yaml cleanup: removed workflow_dispatch event.](https://github.com/not-ed/not-ed/commit/a713f770190a4ea6b2d3dfd69c0bb97d61cd3daa)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+
 > ### Thu. 06 June
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated styling to use 'Inter' typeface for text-based elements.](https://github.com/not-ed/not-ed.github.io/commit/dce91ddc52af38f3846de1c06c8bb9215e82edd7)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
