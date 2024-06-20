@@ -2,10 +2,8 @@ name: Dynamic README Event Log
 
 on:
   schedule:
-  # Every 30 mins
+    # Every 30 mins
     - cron: '0,30 * * * *'
-
-  workflow_dispatch:
 
 jobs:
   update_activity:
