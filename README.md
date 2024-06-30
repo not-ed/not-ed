@@ -115,6 +115,10 @@ CMake
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Sun. 30 June
+>
+> ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [WerWolv/ImHex](https://github.com/WerWolv/ImHex).
+
 > ### Thu. 20 June
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Actions .yaml cleanup: removed workflow_dispatch event.](https://github.com/not-ed/not-ed/commit/a713f770190a4ea6b2d3dfd69c0bb97d61cd3daa)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
