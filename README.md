@@ -115,6 +115,12 @@ CMake
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Sat. 10 August
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Fixed broken scraping structure for new patch notes website layout.](https://github.com/not-ed/ahri/commit/724c2008d5ff4fb9316f94d169af350eba8ed9ab)" in [not-ed/ahri](https://github.com/not-ed/ahri).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added 'posted.dat' to .gitignore](https://github.com/not-ed/ahri/commit/d725f84322f796fa0973bd6428c58d0595a0c4cd)" in [not-ed/ahri](https://github.com/not-ed/ahri).
+
 > ### Sun. 04 August
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Re-introduced workflow_dispatch to account_activity.yaml](https://github.com/not-ed/not-ed/commit/0aa2c841ebee2e60babf1393f7d6086f90c42ff7)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
