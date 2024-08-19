@@ -115,6 +115,12 @@ CMake
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Mon. 19 August
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Removed accidental isolation of actions/checkout usage from its name.](https://github.com/not-ed/not-ed/commit/31f989b191afa5097237bc9d24e18977cdca6e19)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Adding name to usage actions/checkout](https://github.com/not-ed/not-ed/commit/01cd72d379665d41a22ce9132a7abf22a13927bd)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+
 > ### Sat. 10 August
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Fixed broken scraping structure for new patch notes website layout.](https://github.com/not-ed/ahri/commit/724c2008d5ff4fb9316f94d169af350eba8ed9ab)" in [not-ed/ahri](https://github.com/not-ed/ahri).
