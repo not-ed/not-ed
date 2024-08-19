@@ -10,6 +10,7 @@ jobs:
   update_activity:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout profile repository
       - uses: actions/checkout@v3
 
       - name: Install Python dependencies and run Fetch / README update script
