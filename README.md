@@ -115,34 +115,6 @@ CMake
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
-> ### Mon. 19 August
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Removed accidental isolation of actions/checkout usage from its name.](https://github.com/not-ed/not-ed/commit/31f989b191afa5097237bc9d24e18977cdca6e19)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Adding name to usage actions/checkout](https://github.com/not-ed/not-ed/commit/01cd72d379665d41a22ce9132a7abf22a13927bd)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
-> ### Sat. 10 August
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Fixed broken scraping structure for new patch notes website layout.](https://github.com/not-ed/ahri/commit/724c2008d5ff4fb9316f94d169af350eba8ed9ab)" in [not-ed/ahri](https://github.com/not-ed/ahri).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added 'posted.dat' to .gitignore](https://github.com/not-ed/ahri/commit/d725f84322f796fa0973bd6428c58d0595a0c4cd)" in [not-ed/ahri](https://github.com/not-ed/ahri).
-
-> ### Sun. 04 August
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Re-introduced workflow_dispatch to account_activity.yaml](https://github.com/not-ed/not-ed/commit/0aa2c841ebee2e60babf1393f7d6086f90c42ff7)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
-> ### Sat. 06 July
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated public resume](https://github.com/not-ed/not-ed.github.io/commit/031cc5df36a04edb9cf61215d65dd9061722f93c)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
-
-> ### Sun. 30 June
->
-> ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [WerWolv/ImHex](https://github.com/WerWolv/ImHex).
-
-> ### Thu. 20 June
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Actions .yaml cleanup: removed workflow_dispatch event.](https://github.com/not-ed/not-ed/commit/a713f770190a4ea6b2d3dfd69c0bb97d61cd3daa)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
 <!-- HISTORY_END -->
 
 </div>
