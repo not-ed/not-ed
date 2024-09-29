@@ -115,6 +115,10 @@ CMake
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Sun. 29 September
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added pruning of Champion page links](https://github.com/not-ed/ahri/commit/543f2ab5979523926601e1f266b9275b8ce7a816)" in [not-ed/ahri](https://github.com/not-ed/ahri).
+
 > ### Sat. 07 September
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added 'Fresnel' to list of Work (without links)](https://github.com/not-ed/not-ed.github.io/commit/be01b60b3a3464e7ebcb74b96ae8ae77380daa63)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
