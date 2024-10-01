@@ -143,10 +143,6 @@ CMake
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated public resume](https://github.com/not-ed/not-ed.github.io/commit/031cc5df36a04edb9cf61215d65dd9061722f93c)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
 
-> ### Sun. 30 June
->
-> ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [WerWolv/ImHex](https://github.com/WerWolv/ImHex).
-
 <!-- HISTORY_END -->
 
 </div>
