@@ -139,10 +139,6 @@ CMake
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Re-introduced workflow_dispatch to account_activity.yaml](https://github.com/not-ed/not-ed/commit/0aa2c841ebee2e60babf1393f7d6086f90c42ff7)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
 
-> ### Sat. 06 July
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated public resume](https://github.com/not-ed/not-ed.github.io/commit/031cc5df36a04edb9cf61215d65dd9061722f93c)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
-
 <!-- HISTORY_END -->
 
 </div>
