@@ -115,6 +115,30 @@ CMake
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Sun. 29 September
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added pruning of Champion page links](https://github.com/not-ed/ahri/commit/543f2ab5979523926601e1f266b9275b8ce7a816)" in [not-ed/ahri](https://github.com/not-ed/ahri).
+
+> ### Sat. 07 September
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added 'Fresnel' to list of Work (without links)](https://github.com/not-ed/not-ed.github.io/commit/be01b60b3a3464e7ebcb74b96ae8ae77380daa63)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
+
+> ### Mon. 19 August
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Removed accidental isolation of actions/checkout usage from its name.](https://github.com/not-ed/not-ed/commit/31f989b191afa5097237bc9d24e18977cdca6e19)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Adding name to usage actions/checkout](https://github.com/not-ed/not-ed/commit/01cd72d379665d41a22ce9132a7abf22a13927bd)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+
+> ### Sat. 10 August
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Fixed broken scraping structure for new patch notes website layout.](https://github.com/not-ed/ahri/commit/724c2008d5ff4fb9316f94d169af350eba8ed9ab)" in [not-ed/ahri](https://github.com/not-ed/ahri).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added 'posted.dat' to .gitignore](https://github.com/not-ed/ahri/commit/d725f84322f796fa0973bd6428c58d0595a0c4cd)" in [not-ed/ahri](https://github.com/not-ed/ahri).
+
+> ### Sun. 04 August
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Re-introduced workflow_dispatch to account_activity.yaml](https://github.com/not-ed/not-ed/commit/0aa2c841ebee2e60babf1393f7d6086f90c42ff7)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+
 <!-- HISTORY_END -->
 
 </div>
