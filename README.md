@@ -116,6 +116,10 @@ CMake
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Tue. 15 October
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated 'Who am I?' section.](https://github.com/not-ed/not-ed/commit/0d4a03ee5ca3637a52efaf3051eb3183296127b2)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+
 > ### Sun. 29 September
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added pruning of Champion page links](https://github.com/not-ed/ahri/commit/543f2ab5979523926601e1f266b9275b8ce7a816)" in [not-ed/ahri](https://github.com/not-ed/ahri).
