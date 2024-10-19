@@ -116,6 +116,10 @@ CMake
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Sat. 19 October
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Replaced Twitter social link with Bluesky](https://github.com/not-ed/not-ed.github.io/commit/148f00d3ea3f4b2e2c46c9939ab33d73848eef51)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
+
 > ### Tue. 15 October
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated 'Who am I?' section.](https://github.com/not-ed/not-ed/commit/0d4a03ee5ca3637a52efaf3051eb3183296127b2)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
