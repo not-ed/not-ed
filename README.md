@@ -116,6 +116,10 @@ CMake
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Mon. 21 October
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Replaced Bluesky socials with blog placeholder](https://github.com/not-ed/not-ed.github.io/commit/e783d87374963917a69a63e26d119de555a26eb7)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
+
 > ### Sat. 19 October
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Replaced Twitter social link with Bluesky](https://github.com/not-ed/not-ed.github.io/commit/148f00d3ea3f4b2e2c46c9939ab33d73848eef51)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
