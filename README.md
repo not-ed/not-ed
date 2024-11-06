@@ -116,42 +116,6 @@ CMake
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
-> ### Fri. 25 October
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Populated link to blog site under socials](https://github.com/not-ed/not-ed.github.io/commit/2b62c2f500c96ade95fe5b709ace2380fbf758fa)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
-
-> ### Mon. 21 October
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Replaced Bluesky socials with blog placeholder](https://github.com/not-ed/not-ed.github.io/commit/e783d87374963917a69a63e26d119de555a26eb7)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
-
-> ### Sat. 19 October
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Replaced Twitter social link with Bluesky](https://github.com/not-ed/not-ed.github.io/commit/148f00d3ea3f4b2e2c46c9939ab33d73848eef51)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
-
-> ### Tue. 15 October
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated 'Who am I?' section.](https://github.com/not-ed/not-ed/commit/0d4a03ee5ca3637a52efaf3051eb3183296127b2)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
-> ### Sun. 29 September
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added pruning of Champion page links](https://github.com/not-ed/ahri/commit/543f2ab5979523926601e1f266b9275b8ce7a816)" in [not-ed/ahri](https://github.com/not-ed/ahri).
-
-> ### Sat. 07 September
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added 'Fresnel' to list of Work (without links)](https://github.com/not-ed/not-ed.github.io/commit/be01b60b3a3464e7ebcb74b96ae8ae77380daa63)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
-
-> ### Mon. 19 August
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Removed accidental isolation of actions/checkout usage from its name.](https://github.com/not-ed/not-ed/commit/31f989b191afa5097237bc9d24e18977cdca6e19)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Adding name to usage actions/checkout](https://github.com/not-ed/not-ed/commit/01cd72d379665d41a22ce9132a7abf22a13927bd)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
-> ### Sat. 10 August
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Fixed broken scraping structure for new patch notes website layout.](https://github.com/not-ed/ahri/commit/724c2008d5ff4fb9316f94d169af350eba8ed9ab)" in [not-ed/ahri](https://github.com/not-ed/ahri).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added 'posted.dat' to .gitignore](https://github.com/not-ed/ahri/commit/d725f84322f796fa0973bd6428c58d0595a0c4cd)" in [not-ed/ahri](https://github.com/not-ed/ahri).
-
 <!-- HISTORY_END -->
 
 </div>
