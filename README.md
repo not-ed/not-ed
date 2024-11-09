@@ -116,6 +116,10 @@ CMake
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Fri. 08 November
+>
+> ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono).
+
 > ### Fri. 25 October
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Populated link to blog site under socials](https://github.com/not-ed/not-ed.github.io/commit/2b62c2f500c96ade95fe5b709ace2380fbf758fa)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
