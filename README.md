@@ -164,9 +164,8 @@ CMake
 
 <div align="left">
 <img src="./greebles/header-articles.png"></img>
+<!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
+<!-- FEED_START -->
 
-- [Using Web Scraping to Create a Patch Notes Bot in Python](https://www.linkedin.com/pulse/using-web-scraping-create-patch-notes-bot-python-edward-barton/)
-- ["Proper Languages": Who Does This Help?](https://www.linkedin.com/pulse/proper-languages-who-does-help-edward-barton)
-- [Digitizing Sprites and Textures Through Code for DOOMify](https://www.linkedin.com/pulse/digitizing-sprites-textures-through-code-doomify-edward-barton/)
-- [Code it to Learn it: Using Programming as a Study Tool](https://www.linkedin.com/pulse/code-learn-using-programming-study-tool-edward-barton/)
+<!-- FEED_END -->
 </div>

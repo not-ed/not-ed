@@ -13,11 +13,12 @@ jobs:
       - name: Checkout profile repository
         uses: actions/checkout@v3
 
-      - name: Install Python dependencies and run Fetch / README update script
+      - name: Install Python dependencies and run Fetch / README update scripts
         run: |
           cd .github/workflows
           pip install -r requirements.txt
           python3 fetch.py
+          python3 blogfetch.py
 
       - name: (DEBUG) Print README changes
         run: cat README.md
