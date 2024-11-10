@@ -116,6 +116,10 @@ CMake
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Sun. 10 November
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added automatic blog feed to Actions Workflow](https://github.com/not-ed/not-ed/commit/adf5c833b6e7f7b60a839b34fe309ecc0eb7172c)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+
 > ### Fri. 08 November
 >
 > ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono).
@@ -150,12 +154,6 @@ CMake
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Adding name to usage actions/checkout](https://github.com/not-ed/not-ed/commit/01cd72d379665d41a22ce9132a7abf22a13927bd)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
 
-> ### Sat. 10 August
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Fixed broken scraping structure for new patch notes website layout.](https://github.com/not-ed/ahri/commit/724c2008d5ff4fb9316f94d169af350eba8ed9ab)" in [not-ed/ahri](https://github.com/not-ed/ahri).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added 'posted.dat' to .gitignore](https://github.com/not-ed/ahri/commit/d725f84322f796fa0973bd6428c58d0595a0c4cd)" in [not-ed/ahri](https://github.com/not-ed/ahri).
-
 <!-- HISTORY_END -->
 
 </div>
@@ -167,5 +165,9 @@ CMake
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- FEED_START -->
 
+- [Using Web Scraping to Create a Patch Notes Bot in Python](https://blog.not-ed.com/posts/web-scraping-patch-notes/) - 20 Jul. 2021.
+- ["Proper" Languages: Who Does This Help?](https://blog.not-ed.com/posts/proper-languages/) - 16 Apr. 2021.
+- [Digitizing Sprites and Textures Through Code for DOOMify](https://blog.not-ed.com/posts/digitizing-sprites-doomify/) - 18 Mar. 2021.
+- [Code it to Learn it: Using Programming as a Study Tool](https://blog.not-ed.com/posts/code-it-to-learn-it/) - 16 Feb. 2021.
 <!-- FEED_END -->
 </div>
