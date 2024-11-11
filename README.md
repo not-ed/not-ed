@@ -116,6 +116,10 @@ CMake
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Mon. 11 November
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added checking for blog link population to avoid accidentally emptying list on README](https://github.com/not-ed/not-ed/commit/da90769d95fa08cbf7a9d4e4638bbe7addf6b00d)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+
 > ### Sun. 10 November
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added automatic blog feed to Actions Workflow](https://github.com/not-ed/not-ed/commit/adf5c833b6e7f7b60a839b34fe309ecc0eb7172c)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
