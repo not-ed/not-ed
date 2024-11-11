@@ -22,9 +22,11 @@ def RetrieveFormattedArticleLinks():
             break
     return article_links_text
 
-with io.open(README_FILE_PATH,"r") as readme:
-    contents = readme.read()
-    contents = re.sub("(<!-- FEED_START -->)((\n|.)*)(<!-- FEED_END -->)", "<!-- FEED_START -->\n\n{}<!-- FEED_END -->".format(RetrieveFormattedArticleLinks()), contents)
+article_links = RetrieveFormattedArticleLinks()
+if len(article_links) > 0:
+    with io.open(README_FILE_PATH,"r") as readme:
+        contents = readme.read()
+        contents = re.sub("(<!-- FEED_START -->)((\n|.)*)(<!-- FEED_END -->)", "<!-- FEED_START -->\n\n{}<!-- FEED_END -->".format(RetrieveFormattedArticleLinks()), contents)
 
-with io.open(README_FILE_PATH, "w") as readme:
-    readme.write(contents)
+    with io.open(README_FILE_PATH, "w") as readme:
+        readme.write(contents)
