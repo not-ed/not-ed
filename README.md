@@ -104,6 +104,11 @@ CMake
 </tr>
 <tr>
 <td align="center">
+<img width=48 height=48 src="./greebles/tech/azure.png">
+
+Microsoft Azure
+</td>
+<td align="center">
 <img width=48 height=48 src="./greebles/tech/javascript.png">
 
 JavaScript
