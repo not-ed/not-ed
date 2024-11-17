@@ -101,6 +101,8 @@ Qt
 
 CMake
 </td>
+</tr>
+<tr>
 <td align="center">
 <img width=48 height=48 src="./greebles/tech/javascript.png">
 
