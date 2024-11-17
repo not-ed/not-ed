@@ -135,6 +135,8 @@ WebAssembly
 
 > ### Sun. 17 November
 >
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Made parts of 'About Me' a little less verbose](https://github.com/not-ed/not-ed.github.io/commit/079f6cbc9c85856ea07fa28043daef18f2f99a94)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
+>
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Microsoft Azure to skills](https://github.com/not-ed/not-ed/commit/cd99bc62089b733c7f4125162ff766cdcc57d03e)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Put JS and WASM skills on own rows](https://github.com/not-ed/not-ed/commit/9253401fbcfdd84d0a8085f1a95ee5aba5243b7c)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
@@ -164,10 +166,6 @@ WebAssembly
 > ### Fri. 25 October
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Populated link to blog site under socials](https://github.com/not-ed/not-ed.github.io/commit/2b62c2f500c96ade95fe5b709ace2380fbf758fa)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
-
-> ### Mon. 21 October
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Replaced Bluesky socials with blog placeholder](https://github.com/not-ed/not-ed.github.io/commit/e783d87374963917a69a63e26d119de555a26eb7)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
 
 <!-- HISTORY_END -->
 
