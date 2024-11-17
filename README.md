@@ -101,6 +101,16 @@ Qt
 
 CMake
 </td>
+<td align="center">
+<img width=48 height=48 src="./greebles/tech/javascript.png">
+
+JavaScript
+</td>
+<td align="center">
+<img width=48 height=48 src="./greebles/tech/webassembly.png">
+
+WebAssembly
+</td>
 </tr>
 </table>
 
