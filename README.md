@@ -133,6 +133,10 @@ WebAssembly
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Mon. 18 November
+>
+> ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [lighttigerXIV/catppuccinifier](https://github.com/lighttigerXIV/catppuccinifier).
+
 > ### Sun. 17 November
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Made parts of 'About Me' a little less verbose](https://github.com/not-ed/not-ed.github.io/commit/079f6cbc9c85856ea07fa28043daef18f2f99a94)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
@@ -162,10 +166,6 @@ WebAssembly
 > ### Fri. 08 November
 >
 > ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono).
-
-> ### Fri. 25 October
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Populated link to blog site under socials](https://github.com/not-ed/not-ed.github.io/commit/2b62c2f500c96ade95fe5b709ace2380fbf758fa)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
 
 <!-- HISTORY_END -->
 
