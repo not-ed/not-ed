@@ -133,40 +133,6 @@ WebAssembly
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
-> ### Mon. 18 November
->
-> ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [lighttigerXIV/catppuccinifier](https://github.com/lighttigerXIV/catppuccinifier).
-
-> ### Sun. 17 November
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Made parts of 'About Me' a little less verbose](https://github.com/not-ed/not-ed.github.io/commit/079f6cbc9c85856ea07fa28043daef18f2f99a94)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Microsoft Azure to skills](https://github.com/not-ed/not-ed/commit/cd99bc62089b733c7f4125162ff766cdcc57d03e)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Put JS and WASM skills on own rows](https://github.com/not-ed/not-ed/commit/9253401fbcfdd84d0a8085f1a95ee5aba5243b7c)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Javascript and WASM to skills](https://github.com/not-ed/not-ed/commit/995c35911d949ec89b924fb058351641ab454aa1)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
-> ### Sat. 16 November
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated 'About Me' text](https://github.com/not-ed/not-ed.github.io/commit/065d7f379f37eec6312eddcc9c05f87f085d0057)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
-
-> ### Fri. 15 November
->
-> ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [Fausto-Korpsvart/Tokyonight-GTK-Theme](https://github.com/Fausto-Korpsvart/Tokyonight-GTK-Theme).
-
-> ### Mon. 11 November
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added checking for blog link population to avoid accidentally emptying list on README](https://github.com/not-ed/not-ed/commit/da90769d95fa08cbf7a9d4e4638bbe7addf6b00d)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
-> ### Sun. 10 November
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added automatic blog feed to Actions Workflow](https://github.com/not-ed/not-ed/commit/adf5c833b6e7f7b60a839b34fe309ecc0eb7172c)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
-> ### Fri. 08 November
->
-> ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono).
-
 <!-- HISTORY_END -->
 
 </div>
