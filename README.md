@@ -138,6 +138,10 @@ GitHub Actions
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Thu. 26 December
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added GitHub Actions to list of tech knowledge](https://github.com/not-ed/not-ed/commit/aac80cfbfccf2bebb0ec66726538d16c972d33e0)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+
 > ### Mon. 18 November
 >
 > ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [lighttigerXIV/catppuccinifier](https://github.com/lighttigerXIV/catppuccinifier).
@@ -167,10 +171,6 @@ GitHub Actions
 > ### Sun. 10 November
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added automatic blog feed to Actions Workflow](https://github.com/not-ed/not-ed/commit/adf5c833b6e7f7b60a839b34fe309ecc0eb7172c)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
-> ### Fri. 08 November
->
-> ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono).
 
 <!-- HISTORY_END -->
 
