@@ -118,6 +118,11 @@ JavaScript
 
 WebAssembly
 </td>
+<td align="center">
+<img width=48 height=48 src="./greebles/tech/githubactions.png">
+
+GitHub Actions
+</td>
 </tr>
 </table>
 
