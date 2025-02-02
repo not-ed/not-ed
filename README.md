@@ -149,10 +149,10 @@ GitHub Actions
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- FEED_START -->
 
+- [Customary "How I Update This Blog" Post](https://blog.not-ed.com/posts/customary-how-i-update-this-blog-post/) - 02 Feb. 2025.
 - [Yes, it counts.](https://blog.not-ed.com/posts/yes-it-counts/) - 15 Nov. 2024.
 - [Using Web Scraping to Create a Patch Notes Bot in Python](https://blog.not-ed.com/posts/web-scraping-patch-notes/) - 20 Jul. 2021.
 - ["Proper" Languages: Who Does This Help?](https://blog.not-ed.com/posts/proper-languages/) - 16 Apr. 2021.
 - [Digitizing Sprites and Textures Through Code for DOOMify](https://blog.not-ed.com/posts/digitizing-sprites-doomify/) - 18 Mar. 2021.
-- [Code it to Learn it: Using Programming as a Study Tool](https://blog.not-ed.com/posts/code-it-to-learn-it/) - 16 Feb. 2021.
 <!-- FEED_END -->
 </div>
