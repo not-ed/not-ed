@@ -138,6 +138,10 @@ GitHub Actions
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Sun. 23 March
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Acai to list of projects](https://github.com/not-ed/not-ed.github.io/commit/bfb09b37e8c6f125a30ee6293e648630ff718712)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
+
 <!-- HISTORY_END -->
 
 </div>
