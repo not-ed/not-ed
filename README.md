@@ -140,9 +140,19 @@ GitHub Actions
 
 > ### Sun. 23 March
 >
+> ![DELETE](https://img.shields.io/badge/DELETE-E01142?style=flat-square) Deleted `version-display` branch in [not-ed/acai](https://github.com/not-ed/acai).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed 3 commits to [not-ed/acai](https://github.com/not-ed/acai).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added formatting use-case for Unknown / Un-formatted Events](https://github.com/not-ed/not-ed/commit/037b55e3b2ecd8eb93c60092304e348b3d0927fe)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed 2 commits to [not-ed/not-ed](https://github.com/not-ed/not-ed).
+>
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[AcaiMobile: Added SettingsPage controls and bindings for displaying the built app Version String](https://github.com/not-ed/acai/commit/590a81fdcca2e4f6ff2fafda097a4f068c07c003)" in [not-ed/acai](https://github.com/not-ed/acai).
 >
 > ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [version-display](https://github.com/not-ed/acai/tree/version-display) branch on [not-ed/acai](https://github.com/not-ed/acai).
+>
+> ![UNVEILED](https://img.shields.io/badge/UNVEILED-EDEDED?style=flat-square) Made [not-ed/acai](https://github.com/not-ed/acai) public.
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Acai to list of projects](https://github.com/not-ed/not-ed.github.io/commit/bfb09b37e8c6f125a30ee6293e648630ff718712)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
 
