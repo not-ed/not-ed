@@ -72,10 +72,11 @@ def FormatIssuesEvent(event):
 def FormatMemberEvent(event):
     FormatUnknownEvent(event)
     
-#TODO
 def FormatPublicEvent(event):
-    FormatUnknownEvent(event)
-    
+    repo_name = event["repo"]["name"]
+    repo_url = GITHUB_BASE_URL + repo_name
+    return (ShieldsBadge("UNVEILED", "EDEDED") + "Made [{}]({}) public.".format(repo_name, repo_url))
+
 #TODO
 def FormatPullRequestEvent(event):
     FormatUnknownEvent(event)
@@ -117,7 +118,6 @@ def FormatReleaseEvent(event):
 def FormatSponsorshipEvent(event):
     FormatUnknownEvent(event)
     
-#TODO
 def FormatWatchEvent(event):
     repo_name = event["repo"]["name"]
     repo_url = GITHUB_BASE_URL + repo_name
