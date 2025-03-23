@@ -123,9 +123,9 @@ def FormatWatchEvent(event):
     repo_url = GITHUB_BASE_URL + repo_name
     return (ShieldsBadge("STAR", "F1CE12") + "Starred [{}]({}).".format(repo_name, repo_url))
     
-#TODO
 def FormatUnknownEvent(event):
-    return None
+    event_type = event["type"]
+    return (ShieldsBadge("MISSINGNO","1C1C1C") + "Unknown event ({}).".format(event_type))
 
 def FormatEventTime(event):
     event_time = datetime.strptime(event["created_at"],"%Y-%m-%dT%H:%M:%SZ")
