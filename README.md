@@ -138,6 +138,12 @@ GitHub Actions
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Mon. 24 March
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Actions: Fixed typo on KeyStore Step](https://github.com/not-ed/acai/commit/7f8191df05fa4bd6f56fcf6a98d5c3565039411e)" in [not-ed/acai](https://github.com/not-ed/acai).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Actions: Extended dotnet build Step to sign with dedicated KeyStore](https://github.com/not-ed/acai/commit/de50bad2d235ea4fffb0b12b629b9bd212e02fb4)" in [not-ed/acai](https://github.com/not-ed/acai).
+
 > ### Sun. 23 March
 >
 > ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [v1.0.1](https://github.com/not-ed/acai/releases/tag/v1.0.1) tag on [not-ed/acai](https://github.com/not-ed/acai).
