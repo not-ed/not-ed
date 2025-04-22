@@ -159,8 +159,6 @@ GitHub Actions
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[AcaiMobile: Added SettingsPage controls and bindings for displaying the built app Version String](https://github.com/not-ed/acai/commit/590a81fdcca2e4f6ff2fafda097a4f068c07c003)" in [not-ed/acai](https://github.com/not-ed/acai).
 >
 > ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [version-display](https://github.com/not-ed/acai/tree/version-display) branch on [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![UNVEILED](https://img.shields.io/badge/UNVEILED-EDEDED?style=flat-square) Made [not-ed/acai](https://github.com/not-ed/acai) public.
 
 <!-- HISTORY_END -->
 
