@@ -155,8 +155,6 @@ GitHub Actions
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added formatting use-case for Unknown / Un-formatted Events](https://github.com/not-ed/not-ed/commit/037b55e3b2ecd8eb93c60092304e348b3d0927fe)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed 2 commits to [not-ed/not-ed](https://github.com/not-ed/not-ed).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[AcaiMobile: Added SettingsPage controls and bindings for displaying the built app Version String](https://github.com/not-ed/acai/commit/590a81fdcca2e4f6ff2fafda097a4f068c07c003)" in [not-ed/acai](https://github.com/not-ed/acai).
 
 <!-- HISTORY_END -->
 
