@@ -144,10 +144,6 @@ GitHub Actions
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Actions: Extended dotnet build Step to sign with dedicated KeyStore](https://github.com/not-ed/acai/commit/de50bad2d235ea4fffb0b12b629b9bd212e02fb4)" in [not-ed/acai](https://github.com/not-ed/acai).
 
-> ### Sun. 23 March
->
-> ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [v1.0.1](https://github.com/not-ed/acai/releases/tag/v1.0.1) tag on [not-ed/acai](https://github.com/not-ed/acai).
-
 <!-- HISTORY_END -->
 
 </div>
