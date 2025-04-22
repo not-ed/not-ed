@@ -147,14 +147,6 @@ GitHub Actions
 > ### Sun. 23 March
 >
 > ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [v1.0.1](https://github.com/not-ed/acai/releases/tag/v1.0.1) tag on [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![DELETE](https://img.shields.io/badge/DELETE-E01142?style=flat-square) Deleted `version-display` branch in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed 3 commits to [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added formatting use-case for Unknown / Un-formatted Events](https://github.com/not-ed/not-ed/commit/037b55e3b2ecd8eb93c60092304e348b3d0927fe)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed 2 commits to [not-ed/not-ed](https://github.com/not-ed/not-ed).
 
 <!-- HISTORY_END -->
 
