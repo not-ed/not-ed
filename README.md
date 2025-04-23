@@ -138,10 +138,6 @@ GitHub Actions
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
-> ### Mon. 24 March
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Actions: Fixed typo on KeyStore Step](https://github.com/not-ed/acai/commit/7f8191df05fa4bd6f56fcf6a98d5c3565039411e)" in [not-ed/acai](https://github.com/not-ed/acai).
-
 <!-- HISTORY_END -->
 
 </div>
