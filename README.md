@@ -138,6 +138,10 @@ GitHub Actions
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Wed. 30 April
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added handling logic to ItemEditorViewModel which dictates whether to show a confirmation dialog when dismissing an ItemEditorPage with unsaved changes](https://github.com/not-ed/acai/commit/ed89f2ae555f152b0f1da39e60ac0c36dbad50c1)" in [not-ed/acai](https://github.com/not-ed/acai).
+
 > ### Tue. 29 April
 >
 > ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [item-cancellation-warning](https://github.com/not-ed/acai/tree/item-cancellation-warning) branch on [not-ed/acai](https://github.com/not-ed/acai).
