@@ -138,6 +138,10 @@ GitHub Actions
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Thu. 22 May
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added stub OnResume Method as a lifecycle event when app is resumed.](https://github.com/not-ed/acai/commit/5bf6bdd58211260348b32c9cc3d6c31cccca12d4)" in [not-ed/acai](https://github.com/not-ed/acai).
+
 > ### Sat. 17 May
 >
 > ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [update-checking](https://github.com/not-ed/acai/tree/update-checking) branch on [not-ed/acai](https://github.com/not-ed/acai).
