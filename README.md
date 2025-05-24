@@ -140,6 +140,12 @@ GitHub Actions
 
 > ### Sat. 24 May
 >
+> ![DELETE](https://img.shields.io/badge/DELETE-E01142?style=flat-square) Deleted `update-checking` branch in [not-ed/acai](https://github.com/not-ed/acai).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed 10 commits to [not-ed/acai](https://github.com/not-ed/acai).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added SettingsPage controls for toggling PreferencesKeyDefaultValuePair, which has been introduced to AcaiUpdateChecker](https://github.com/not-ed/acai/commit/fba728594a5994b7272e43ca11a89c1d69f5c9be)" in [not-ed/acai](https://github.com/not-ed/acai).
+>
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added new PreferencesKeyDefaultValuePair for enabling/disabling automatic app updates](https://github.com/not-ed/acai/commit/839ec798d51bfd826fc8c7cbfb73f6731818eef2)" in [not-ed/acai](https://github.com/not-ed/acai).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added day-long limit between checking for updates automatically on app resume](https://github.com/not-ed/acai/commit/47173bdaeff34d14f4238092b6fe54cbc570b467)" in [not-ed/acai](https://github.com/not-ed/acai).
@@ -157,14 +163,6 @@ GitHub Actions
 > ### Sat. 17 May
 >
 > ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [update-checking](https://github.com/not-ed/acai/tree/update-checking) branch on [not-ed/acai](https://github.com/not-ed/acai).
-
-> ### Wed. 30 April
->
-> ![DELETE](https://img.shields.io/badge/DELETE-E01142?style=flat-square) Deleted `item-cancellation-warning` branch in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed 3 commits to [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added handling logic to ItemEditorViewModel which dictates whether to show a confirmation dialog when dismissing an ItemEditorPage with unsaved changes](https://github.com/not-ed/acai/commit/ed89f2ae555f152b0f1da39e60ac0c36dbad50c1)" in [not-ed/acai](https://github.com/not-ed/acai).
 
 <!-- HISTORY_END -->
 
