@@ -140,6 +140,10 @@ GitHub Actions
 
 > ### Sat. 24 May
 >
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added new PreferencesKeyDefaultValuePair for enabling/disabling automatic app updates](https://github.com/not-ed/acai/commit/839ec798d51bfd826fc8c7cbfb73f6731818eef2)" in [not-ed/acai](https://github.com/not-ed/acai).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added day-long limit between checking for updates automatically on app resume](https://github.com/not-ed/acai/commit/47173bdaeff34d14f4238092b6fe54cbc570b467)" in [not-ed/acai](https://github.com/not-ed/acai).
+>
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added invocation of AcaiUpdateChecker upon Resuming app](https://github.com/not-ed/acai/commit/577f67554471aeacd527c2cb82ef8f92bc3fb126)" in [not-ed/acai](https://github.com/not-ed/acai).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Refactor: Moved existing update checking logic into static AcaiUpdateChecker class](https://github.com/not-ed/acai/commit/0bc854c6275c69c0cb04d89f512716d18a3e8d7e)" in [not-ed/acai](https://github.com/not-ed/acai).
@@ -161,10 +165,6 @@ GitHub Actions
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed 3 commits to [not-ed/acai](https://github.com/not-ed/acai).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added handling logic to ItemEditorViewModel which dictates whether to show a confirmation dialog when dismissing an ItemEditorPage with unsaved changes](https://github.com/not-ed/acai/commit/ed89f2ae555f152b0f1da39e60ac0c36dbad50c1)" in [not-ed/acai](https://github.com/not-ed/acai).
-
-> ### Tue. 29 April
->
-> ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [item-cancellation-warning](https://github.com/not-ed/acai/tree/item-cancellation-warning) branch on [not-ed/acai](https://github.com/not-ed/acai).
 
 <!-- HISTORY_END -->
 
