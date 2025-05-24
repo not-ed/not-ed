@@ -140,6 +140,10 @@ GitHub Actions
 
 > ### Sat. 24 May
 >
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added invocation of AcaiUpdateChecker upon Resuming app](https://github.com/not-ed/acai/commit/577f67554471aeacd527c2cb82ef8f92bc3fb126)" in [not-ed/acai](https://github.com/not-ed/acai).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Refactor: Moved existing update checking logic into static AcaiUpdateChecker class](https://github.com/not-ed/acai/commit/0bc854c6275c69c0cb04d89f512716d18a3e8d7e)" in [not-ed/acai](https://github.com/not-ed/acai).
+>
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Refactor: renamed UpdateChecker classes/interface to ReleaseRetriever and privated GitHub Release Response data classes](https://github.com/not-ed/acai/commit/1d79c3d350bd650f09488131aced187cb685040b)" in [not-ed/acai](https://github.com/not-ed/acai).
 
 > ### Thu. 22 May
