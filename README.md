@@ -138,6 +138,10 @@ GitHub Actions
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Sat. 24 May
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Refactor: renamed UpdateChecker classes/interface to ReleaseRetriever and privated GitHub Release Response data classes](https://github.com/not-ed/acai/commit/1d79c3d350bd650f09488131aced187cb685040b)" in [not-ed/acai](https://github.com/not-ed/acai).
+
 > ### Thu. 22 May
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added stub OnResume Method as a lifecycle event when app is resumed.](https://github.com/not-ed/acai/commit/5bf6bdd58211260348b32c9cc3d6c31cccca12d4)" in [not-ed/acai](https://github.com/not-ed/acai).
