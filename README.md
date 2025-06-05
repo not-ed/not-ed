@@ -138,32 +138,6 @@ GitHub Actions
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
-> ### Sat. 24 May
->
-> ![DELETE](https://img.shields.io/badge/DELETE-E01142?style=flat-square) Deleted `update-checking` branch in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed 10 commits to [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added SettingsPage controls for toggling PreferencesKeyDefaultValuePair, which has been introduced to AcaiUpdateChecker](https://github.com/not-ed/acai/commit/fba728594a5994b7272e43ca11a89c1d69f5c9be)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added new PreferencesKeyDefaultValuePair for enabling/disabling automatic app updates](https://github.com/not-ed/acai/commit/839ec798d51bfd826fc8c7cbfb73f6731818eef2)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added day-long limit between checking for updates automatically on app resume](https://github.com/not-ed/acai/commit/47173bdaeff34d14f4238092b6fe54cbc570b467)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added invocation of AcaiUpdateChecker upon Resuming app](https://github.com/not-ed/acai/commit/577f67554471aeacd527c2cb82ef8f92bc3fb126)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Refactor: Moved existing update checking logic into static AcaiUpdateChecker class](https://github.com/not-ed/acai/commit/0bc854c6275c69c0cb04d89f512716d18a3e8d7e)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Refactor: renamed UpdateChecker classes/interface to ReleaseRetriever and privated GitHub Release Response data classes](https://github.com/not-ed/acai/commit/1d79c3d350bd650f09488131aced187cb685040b)" in [not-ed/acai](https://github.com/not-ed/acai).
-
-> ### Thu. 22 May
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added stub OnResume Method as a lifecycle event when app is resumed.](https://github.com/not-ed/acai/commit/5bf6bdd58211260348b32c9cc3d6c31cccca12d4)" in [not-ed/acai](https://github.com/not-ed/acai).
-
-> ### Sat. 17 May
->
-> ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [update-checking](https://github.com/not-ed/acai/tree/update-checking) branch on [not-ed/acai](https://github.com/not-ed/acai).
-
 <!-- HISTORY_END -->
 
 </div>
