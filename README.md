@@ -138,6 +138,10 @@ GitHub Actions
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Sun. 15 June
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added binding and tokenization/formatting of content passed/displayed on a NoteCard](https://github.com/not-ed/acai/commit/c90b4a02b57ce4830cb6630eb6e27719bf350767)" in [not-ed/acai](https://github.com/not-ed/acai).
+
 > ### Sat. 24 May
 >
 > ![DELETE](https://img.shields.io/badge/DELETE-E01142?style=flat-square) Deleted `update-checking` branch in [not-ed/acai](https://github.com/not-ed/acai).
@@ -159,10 +163,6 @@ GitHub Actions
 > ### Thu. 22 May
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added stub OnResume Method as a lifecycle event when app is resumed.](https://github.com/not-ed/acai/commit/5bf6bdd58211260348b32c9cc3d6c31cccca12d4)" in [not-ed/acai](https://github.com/not-ed/acai).
-
-> ### Sat. 17 May
->
-> ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [update-checking](https://github.com/not-ed/acai/tree/update-checking) branch on [not-ed/acai](https://github.com/not-ed/acai).
 
 <!-- HISTORY_END -->
 
