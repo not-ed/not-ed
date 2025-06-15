@@ -140,6 +140,8 @@ GitHub Actions
 
 > ### Sun. 15 June
 >
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added (stub) Toolbar Button to Food Journal Page for initiating note edits.](https://github.com/not-ed/acai/commit/63c0433aab1fc4fa792af8601bc3901a53672366)" in [not-ed/acai](https://github.com/not-ed/acai).
+>
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created Journal Table Schema for Food Journal Notes](https://github.com/not-ed/acai/commit/4124e8c1e27917b6308a59014f62571d1e8660a2)" in [not-ed/acai](https://github.com/not-ed/acai).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added binding and tokenization/formatting of content passed/displayed on a NoteCard](https://github.com/not-ed/acai/commit/c90b4a02b57ce4830cb6630eb6e27719bf350767)" in [not-ed/acai](https://github.com/not-ed/acai).
