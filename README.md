@@ -140,6 +140,8 @@ GitHub Actions
 
 > ### Sun. 15 June
 >
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created Journal Table Schema for Food Journal Notes](https://github.com/not-ed/acai/commit/4124e8c1e27917b6308a59014f62571d1e8660a2)" in [not-ed/acai](https://github.com/not-ed/acai).
+>
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added binding and tokenization/formatting of content passed/displayed on a NoteCard](https://github.com/not-ed/acai/commit/c90b4a02b57ce4830cb6630eb6e27719bf350767)" in [not-ed/acai](https://github.com/not-ed/acai).
 
 > ### Sat. 24 May
@@ -159,10 +161,6 @@ GitHub Actions
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Refactor: Moved existing update checking logic into static AcaiUpdateChecker class](https://github.com/not-ed/acai/commit/0bc854c6275c69c0cb04d89f512716d18a3e8d7e)" in [not-ed/acai](https://github.com/not-ed/acai).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Refactor: renamed UpdateChecker classes/interface to ReleaseRetriever and privated GitHub Release Response data classes](https://github.com/not-ed/acai/commit/1d79c3d350bd650f09488131aced187cb685040b)" in [not-ed/acai](https://github.com/not-ed/acai).
-
-> ### Thu. 22 May
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added stub OnResume Method as a lifecycle event when app is resumed.](https://github.com/not-ed/acai/commit/5bf6bdd58211260348b32c9cc3d6c31cccca12d4)" in [not-ed/acai](https://github.com/not-ed/acai).
 
 <!-- HISTORY_END -->
 
