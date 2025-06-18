@@ -140,6 +140,8 @@ GitHub Actions
 
 > ### Tue. 17 June
 >
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added logic and tests for retrieving a Food Journal Note by date](https://github.com/not-ed/acai/commit/a4b71752a161ddca3d44539c6f78ae60990c32d4)" in [not-ed/acai](https://github.com/not-ed/acai).
+>
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Merged Create/Update methods in IFoodJournalNoteGateway](https://github.com/not-ed/acai/commit/ed2321410b1929a047b5698c48399eac1afd1fe6)" in [not-ed/acai](https://github.com/not-ed/acai).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated return types of Create/Update methods for IFoodJournalNoteGateway](https://github.com/not-ed/acai/commit/0ec5552a3491dd74a13af6d3842cf8065ff18f38)" in [not-ed/acai](https://github.com/not-ed/acai).
