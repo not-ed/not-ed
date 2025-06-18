@@ -138,6 +138,10 @@ GitHub Actions
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Tue. 17 June
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated return types of Create/Update methods for IFoodJournalNoteGateway](https://github.com/not-ed/acai/commit/0ec5552a3491dd74a13af6d3842cf8065ff18f38)" in [not-ed/acai](https://github.com/not-ed/acai).
+
 > ### Sun. 15 June
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created FoodJournalNoteGateway Interface and associated DTO class](https://github.com/not-ed/acai/commit/b87556ac662303153d1c1e972744c8b110d96846)" in [not-ed/acai](https://github.com/not-ed/acai).
