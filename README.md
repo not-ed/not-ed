@@ -138,6 +138,10 @@ GitHub Actions
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Fri. 20 June
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added (failing) tests for creating / updating food journal notes](https://github.com/not-ed/acai/commit/30fee82b6f9ee3e07a80958bb506462f90351e18)" in [not-ed/acai](https://github.com/not-ed/acai).
+
 > ### Tue. 17 June
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added logic and tests for retrieving a Food Journal Note by date](https://github.com/not-ed/acai/commit/a4b71752a161ddca3d44539c6f78ae60990c32d4)" in [not-ed/acai](https://github.com/not-ed/acai).
