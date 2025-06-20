@@ -140,6 +140,8 @@ GitHub Actions
 
 > ### Fri. 20 June
 >
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[AcaiCore: Added business logic for creating / updating Food Journal Notes](https://github.com/not-ed/acai/commit/3648f4d6a539f4c554d94a1554d238427bc6a8cf)" in [not-ed/acai](https://github.com/not-ed/acai).
+>
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added (failing) tests for creating / updating food journal notes](https://github.com/not-ed/acai/commit/30fee82b6f9ee3e07a80958bb506462f90351e18)" in [not-ed/acai](https://github.com/not-ed/acai).
 
 > ### Tue. 17 June
