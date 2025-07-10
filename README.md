@@ -138,6 +138,12 @@ GitHub Actions
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Thu. 10 July
+>
+> ![DELETE](https://img.shields.io/badge/DELETE-E01142?style=flat-square) Deleted `food-journal-notes` branch in [not-ed/acai](https://github.com/not-ed/acai).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed 14 commits to [not-ed/acai](https://github.com/not-ed/acai).
+
 > ### Sat. 21 June
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added NoteCard styling and colors for light / dark mode](https://github.com/not-ed/acai/commit/14fa3ab2b5ab5a15a37d43f83c633f82e131fe6e)" in [not-ed/acai](https://github.com/not-ed/acai).
@@ -159,16 +165,6 @@ GitHub Actions
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Merged Create/Update methods in IFoodJournalNoteGateway](https://github.com/not-ed/acai/commit/ed2321410b1929a047b5698c48399eac1afd1fe6)" in [not-ed/acai](https://github.com/not-ed/acai).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated return types of Create/Update methods for IFoodJournalNoteGateway](https://github.com/not-ed/acai/commit/0ec5552a3491dd74a13af6d3842cf8065ff18f38)" in [not-ed/acai](https://github.com/not-ed/acai).
-
-> ### Sun. 15 June
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created FoodJournalNoteGateway Interface and associated DTO class](https://github.com/not-ed/acai/commit/b87556ac662303153d1c1e972744c8b110d96846)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added (stub) Toolbar Button to Food Journal Page for initiating note edits.](https://github.com/not-ed/acai/commit/63c0433aab1fc4fa792af8601bc3901a53672366)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created Journal Table Schema for Food Journal Notes](https://github.com/not-ed/acai/commit/4124e8c1e27917b6308a59014f62571d1e8660a2)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added binding and tokenization/formatting of content passed/displayed on a NoteCard](https://github.com/not-ed/acai/commit/c90b4a02b57ce4830cb6630eb6e27719bf350767)" in [not-ed/acai](https://github.com/not-ed/acai).
 
 <!-- HISTORY_END -->
 
