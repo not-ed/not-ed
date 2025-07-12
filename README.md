@@ -138,6 +138,10 @@ GitHub Actions
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Sat. 12 July
+>
+> ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [v2.0.0](https://github.com/not-ed/acai/releases/tag/v2.0.0) tag on [not-ed/acai](https://github.com/not-ed/acai).
+
 > ### Thu. 10 July
 >
 > ![DELETE](https://img.shields.io/badge/DELETE-E01142?style=flat-square) Deleted `food-journal-notes` branch in [not-ed/acai](https://github.com/not-ed/acai).
