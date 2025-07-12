@@ -140,6 +140,8 @@ GitHub Actions
 
 > ### Sat. 12 July
 >
+> ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [update-fix](https://github.com/not-ed/acai/tree/update-fix) branch on [not-ed/acai](https://github.com/not-ed/acai).
+>
 > ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [v2.0.0](https://github.com/not-ed/acai/releases/tag/v2.0.0) tag on [not-ed/acai](https://github.com/not-ed/acai).
 
 > ### Thu. 10 July
