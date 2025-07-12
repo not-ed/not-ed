@@ -140,6 +140,12 @@ GitHub Actions
 
 > ### Sat. 12 July
 >
+> ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [v2.0.1](https://github.com/not-ed/acai/releases/tag/v2.0.1) tag on [not-ed/acai](https://github.com/not-ed/acai).
+>
+> ![DELETE](https://img.shields.io/badge/DELETE-E01142?style=flat-square) Deleted `update-fix` branch in [not-ed/acai](https://github.com/not-ed/acai).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed 2 commits to [not-ed/acai](https://github.com/not-ed/acai).
+>
 > ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [update-fix](https://github.com/not-ed/acai/tree/update-fix) branch on [not-ed/acai](https://github.com/not-ed/acai).
 >
 > ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [v2.0.0](https://github.com/not-ed/acai/releases/tag/v2.0.0) tag on [not-ed/acai](https://github.com/not-ed/acai).
@@ -157,20 +163,6 @@ GitHub Actions
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Corrected / simplified behaviour of NoteCard to allow correct display / updating of Note Content passed into BindableProperty](https://github.com/not-ed/acai/commit/35f85f63052f4e07f8fc7d90063b0db55910e8da)" in [not-ed/acai](https://github.com/not-ed/acai).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added FoodJournalPage logic for editing and displaying Note content (inside a hard-coded Frame)](https://github.com/not-ed/acai/commit/521a50a246d8a9759c5013bfeca3b477c5cb023c)" in [not-ed/acai](https://github.com/not-ed/acai).
-
-> ### Fri. 20 June
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[AcaiCore: Added business logic for creating / updating Food Journal Notes](https://github.com/not-ed/acai/commit/3648f4d6a539f4c554d94a1554d238427bc6a8cf)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added (failing) tests for creating / updating food journal notes](https://github.com/not-ed/acai/commit/30fee82b6f9ee3e07a80958bb506462f90351e18)" in [not-ed/acai](https://github.com/not-ed/acai).
-
-> ### Tue. 17 June
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added logic and tests for retrieving a Food Journal Note by date](https://github.com/not-ed/acai/commit/a4b71752a161ddca3d44539c6f78ae60990c32d4)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Merged Create/Update methods in IFoodJournalNoteGateway](https://github.com/not-ed/acai/commit/ed2321410b1929a047b5698c48399eac1afd1fe6)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated return types of Create/Update methods for IFoodJournalNoteGateway](https://github.com/not-ed/acai/commit/0ec5552a3491dd74a13af6d3842cf8065ff18f38)" in [not-ed/acai](https://github.com/not-ed/acai).
 
 <!-- HISTORY_END -->
 
