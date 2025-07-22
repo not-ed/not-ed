@@ -156,14 +156,6 @@ GitHub Actions
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed 14 commits to [not-ed/acai](https://github.com/not-ed/acai).
 
-> ### Sat. 21 June
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added NoteCard styling and colors for light / dark mode](https://github.com/not-ed/acai/commit/14fa3ab2b5ab5a15a37d43f83c633f82e131fe6e)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Corrected / simplified behaviour of NoteCard to allow correct display / updating of Note Content passed into BindableProperty](https://github.com/not-ed/acai/commit/35f85f63052f4e07f8fc7d90063b0db55910e8da)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added FoodJournalPage logic for editing and displaying Note content (inside a hard-coded Frame)](https://github.com/not-ed/acai/commit/521a50a246d8a9759c5013bfeca3b477c5cb023c)" in [not-ed/acai](https://github.com/not-ed/acai).
-
 <!-- HISTORY_END -->
 
 </div>
