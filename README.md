@@ -154,12 +154,6 @@ GitHub Actions
 >
 > ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [v2.0.0](https://github.com/not-ed/acai/releases/tag/v2.0.0) tag on [not-ed/acai](https://github.com/not-ed/acai).
 
-> ### Thu. 10 July
->
-> ![DELETE](https://img.shields.io/badge/DELETE-E01142?style=flat-square) Deleted `food-journal-notes` branch in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed 14 commits to [not-ed/acai](https://github.com/not-ed/acai).
-
 <!-- HISTORY_END -->
 
 </div>
