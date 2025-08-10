@@ -138,28 +138,6 @@ GitHub Actions
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
-> ### Sun. 10 August
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Deploy from not-ed-react@ca0dafa](https://github.com/not-ed/not-ed.github.io/commit/88c0db5890709afcbe1504d8076d93a6e2f9a030)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Deploy from not-ed-react@b34d7c8](https://github.com/not-ed/not-ed.github.io/commit/56860c7500fdeb46a713158d4204c8a96040e0c7)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
-
-> ### Wed. 23 July
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated Title](https://github.com/not-ed/not-ed/commit/8df9edd12feb3c9e5fc0115047936b4b79741bb8)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
-> ### Sat. 12 July
->
-> ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [v2.0.1](https://github.com/not-ed/acai/releases/tag/v2.0.1) tag on [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![DELETE](https://img.shields.io/badge/DELETE-E01142?style=flat-square) Deleted `update-fix` branch in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed 2 commits to [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [update-fix](https://github.com/not-ed/acai/tree/update-fix) branch on [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [v2.0.0](https://github.com/not-ed/acai/releases/tag/v2.0.0) tag on [not-ed/acai](https://github.com/not-ed/acai).
-
 <!-- HISTORY_END -->
 
 </div>
