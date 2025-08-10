@@ -140,6 +140,8 @@ GitHub Actions
 
 > ### Sun. 10 August
 >
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Deploy from not-ed-react@ca0dafa](https://github.com/not-ed/not-ed.github.io/commit/88c0db5890709afcbe1504d8076d93a6e2f9a030)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
+>
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Deploy from not-ed-react@b34d7c8](https://github.com/not-ed/not-ed.github.io/commit/56860c7500fdeb46a713158d4204c8a96040e0c7)" in [not-ed/not-ed.github.io](https://github.com/not-ed/not-ed.github.io).
 
 > ### Wed. 23 July
