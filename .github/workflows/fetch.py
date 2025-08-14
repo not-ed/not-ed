@@ -132,6 +132,10 @@ def FormatEventTime(event):
     return event_time.strftime("%a. %d %B")
 
 def FormatEvent(event):
+    # Skip GitHub pages commits coming from Actions.
+    if event["repo"]["name"] == "not-ed/not-ed.github.io":
+        return None
+
     event_type = event["type"]
     if event_type == "CommitCommentEvent":
         return FormatCommitCommentEvent(event)
