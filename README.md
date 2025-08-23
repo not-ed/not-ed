@@ -150,10 +150,6 @@ GitHub Actions
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added skip for events coming from GitHub pages](https://github.com/not-ed/not-ed/commit/64cc390c459995b8917b08f1a144fca44967c352)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
 
-> ### Wed. 23 July
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated Title](https://github.com/not-ed/not-ed/commit/8df9edd12feb3c9e5fc0115047936b4b79741bb8)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
 <!-- HISTORY_END -->
 
 </div>
