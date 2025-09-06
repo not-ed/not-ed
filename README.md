@@ -123,6 +123,11 @@ WebAssembly
 
 GitHub Actions
 </td>
+<td align="center">
+<img width=48 height=48 src="./greebles/tech/react.png">
+
+React
+</td>
 </tr>
 </table>
 
