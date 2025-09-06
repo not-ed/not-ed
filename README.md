@@ -128,6 +128,11 @@ GitHub Actions
 
 React
 </td>
+<td align="center">
+<img width=48 height=48 src="./greebles/tech/sqlite.png">
+
+SQLite
+</td>
 </tr>
 </table>
 
