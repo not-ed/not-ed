@@ -143,6 +143,18 @@ React
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Sun. 17 August
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Table Schema for quantity column inside food_item_shortcuts](https://github.com/not-ed/acai/commit/cc7c2e921a06ceb782fc562e7df85767ae5a258d)" in [not-ed/acai](https://github.com/not-ed/acai).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Table Schema for quantity column inside food_items](https://github.com/not-ed/acai/commit/4c55b06bb4e85b52906e349e7680546b8e64216c)" in [not-ed/acai](https://github.com/not-ed/acai).
+>
+> ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [meal-prep-calculator](https://github.com/not-ed/acai/tree/meal-prep-calculator) branch on [not-ed/acai](https://github.com/not-ed/acai).
+
+> ### Thu. 14 August
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added skip for events coming from GitHub pages](https://github.com/not-ed/not-ed/commit/64cc390c459995b8917b08f1a144fca44967c352)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+
 <!-- HISTORY_END -->
 
 </div>
