@@ -148,6 +148,10 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Sat. 06 September
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added React to list of technologies](https://github.com/not-ed/not-ed/commit/eeca81b6b1be21331f1d1a3ce8a220e87370bd54)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+
 > ### Sun. 17 August
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Table Schema for quantity column inside food_item_shortcuts](https://github.com/not-ed/acai/commit/cc7c2e921a06ceb782fc562e7df85767ae5a258d)" in [not-ed/acai](https://github.com/not-ed/acai).
