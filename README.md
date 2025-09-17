@@ -159,8 +159,6 @@ SQLite
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Table Schema for quantity column inside food_item_shortcuts](https://github.com/not-ed/acai/commit/cc7c2e921a06ceb782fc562e7df85767ae5a258d)" in [not-ed/acai](https://github.com/not-ed/acai).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Table Schema for quantity column inside food_items](https://github.com/not-ed/acai/commit/4c55b06bb4e85b52906e349e7680546b8e64216c)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [meal-prep-calculator](https://github.com/not-ed/acai/tree/meal-prep-calculator) branch on [not-ed/acai](https://github.com/not-ed/acai).
 
 <!-- HISTORY_END -->
 
