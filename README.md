@@ -148,12 +148,6 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
-> ### Sat. 06 September
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added SQLite to list of technologies](https://github.com/not-ed/not-ed/commit/4976a3a0d782d3676c85068aec0b6b9aa78def59)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added React to list of technologies](https://github.com/not-ed/not-ed/commit/eeca81b6b1be21331f1d1a3ce8a220e87370bd54)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
 <!-- HISTORY_END -->
 
 </div>
