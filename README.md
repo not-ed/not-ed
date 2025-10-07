@@ -150,6 +150,8 @@ SQLite
 
 > ### Mon. 06 October
 >
+> ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [v2.0.2](https://github.com/not-ed/acai/releases/tag/v2.0.2) tag on [not-ed/acai](https://github.com/not-ed/acai).
+>
 > ![DELETE](https://img.shields.io/badge/DELETE-E01142?style=flat-square) Deleted `add-item-fab` branch in [not-ed/acai](https://github.com/not-ed/acai).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed 3 commits to [not-ed/acai](https://github.com/not-ed/acai).
