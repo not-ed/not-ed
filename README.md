@@ -150,6 +150,8 @@ SQLite
 
 > ### Mon. 06 October
 >
+> ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [add-item-fab](https://github.com/not-ed/acai/tree/add-item-fab) branch on [not-ed/acai](https://github.com/not-ed/acai).
+>
 > ![DELETE](https://img.shields.io/badge/DELETE-E01142?style=flat-square) Deleted `meal-prep-calculator` branch in [not-ed/acai](https://github.com/not-ed/acai).
 
 <!-- HISTORY_END -->
