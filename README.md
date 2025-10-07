@@ -148,6 +148,10 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Mon. 06 October
+>
+> ![DELETE](https://img.shields.io/badge/DELETE-E01142?style=flat-square) Deleted `meal-prep-calculator` branch in [not-ed/acai](https://github.com/not-ed/acai).
+
 <!-- HISTORY_END -->
 
 </div>
