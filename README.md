@@ -150,6 +150,8 @@ SQLite
 
 > ### Wed. 08 October
 >
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created new WeightJournalPage and boilerplate to add it to AppShell](https://github.com/not-ed/acai/commit/bf2bf49f934b10096cd77530a1133c80aef9f9b3)" in [not-ed/acai](https://github.com/not-ed/acai).
+>
 > ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [weigh-in-page](https://github.com/not-ed/acai/tree/weigh-in-page) branch on [not-ed/acai](https://github.com/not-ed/acai).
 
 > ### Mon. 06 October
