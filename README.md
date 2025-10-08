@@ -148,6 +148,10 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Wed. 08 October
+>
+> ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [weigh-in-page](https://github.com/not-ed/acai/tree/weigh-in-page) branch on [not-ed/acai](https://github.com/not-ed/acai).
+
 > ### Mon. 06 October
 >
 > ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [v2.0.2](https://github.com/not-ed/acai/releases/tag/v2.0.2) tag on [not-ed/acai](https://github.com/not-ed/acai).
