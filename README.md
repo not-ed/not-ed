@@ -148,26 +148,6 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
-> ### Wed. 08 October
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created new WeightJournalPage and boilerplate to add it to AppShell](https://github.com/not-ed/acai/commit/bf2bf49f934b10096cd77530a1133c80aef9f9b3)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [weigh-in-page](https://github.com/not-ed/acai/tree/weigh-in-page) branch on [not-ed/acai](https://github.com/not-ed/acai).
-
-> ### Mon. 06 October
->
-> ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [v2.0.2](https://github.com/not-ed/acai/releases/tag/v2.0.2) tag on [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![DELETE](https://img.shields.io/badge/DELETE-E01142?style=flat-square) Deleted `add-item-fab` branch in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed 3 commits to [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Corrected RowDefinitions on FoodJournalPage to avoid smooshing total counter](https://github.com/not-ed/acai/commit/a4400fd2de32414a85410ef3394e5c9557983239)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [add-item-fab](https://github.com/not-ed/acai/tree/add-item-fab) branch on [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![DELETE](https://img.shields.io/badge/DELETE-E01142?style=flat-square) Deleted `meal-prep-calculator` branch in [not-ed/acai](https://github.com/not-ed/acai).
-
 <!-- HISTORY_END -->
 
 </div>
