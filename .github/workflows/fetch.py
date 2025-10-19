@@ -93,20 +93,19 @@ def FormatPullRequestReviewCommentEvent(event):
 def FormatPullRequestReviewThreadEvent(event):
     FormatUnknownEvent(event)
     
-#TODO
 def FormatPushEvent(event):
     repo_name = event["repo"]["name"]
     repo_url = GITHUB_BASE_URL + repo_name
-    
-    commits_pushed = len(event["payload"]["commits"])
-    if commits_pushed == 1:
-        commit_message = str(event["payload"]["commits"][0]["message"] ).split("\n")[0]
-        commit_url = GITHUB_BASE_URL + repo_name + "/commit/" +(event["payload"]["commits"][0]["sha"])
+    commit_url = "https://api.github.com/repos/" + repo_name + "/commits/" + event["payload"]["head"]
+    commit_details = requests.get(commit_url)
+    if (commit_details.ok):
+        commit = commit_details.json()
+        commit_message = str(commit["commit"]["message"] ).split("\n")[0]
+        commit_url = commit["html_url"]
         return (ShieldsBadge("COMMIT","1173E0") + "\"[{}]({})\" in [{}]({}).".format(commit_message, commit_url, repo_name, repo_url))
-    else:
-        # TODO: commit links
-        return (ShieldsBadge("COMMIT","1173E0") + "Pushed {} commits to [{}]({}).".format(commits_pushed,repo_name,repo_url))
     
+    return (ShieldsBadge("COMMIT", "1173E0") + "Pushed a commit to [{}]({}).".format(repo_name, repo_url));
+
 def FormatReleaseEvent(event):
     repo_name = event["repo"]["name"]
     repo_url = GITHUB_BASE_URL + repo_name
