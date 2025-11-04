@@ -148,6 +148,10 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Mon. 03 November
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created new Weight Journal Table Schema](https://github.com/not-ed/acai/commit/ac89614d6e28285ac998a3d326ca5fe8e2858d2b)" in [not-ed/acai](https://github.com/not-ed/acai).
+
 > ### Sun. 26 October
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added DataTemplates and Command Stubs for entries to Weight Journal page](https://github.com/not-ed/acai/commit/295e0b529821ccff204af755f853708cdabc3efa)" in [not-ed/acai](https://github.com/not-ed/acai).
