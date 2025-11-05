@@ -160,11 +160,11 @@ SQLite
 
 > ### Sun. 19 October
 >
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Adjusted PushEvent logic to address regressions caused by GitHub API changes](https://github.com/not-ed/not-ed/commit/d066a0330e42130d8559c01744cbbd108fd178b8)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed a commit to [not-ed/not-ed](https://github.com/not-ed/not-ed).
 
 > ### Wed. 08 October
 >
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created new WeightJournalPage and boilerplate to add it to AppShell](https://github.com/not-ed/acai/commit/bf2bf49f934b10096cd77530a1133c80aef9f9b3)" in [not-ed/acai](https://github.com/not-ed/acai).
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed a commit to [not-ed/acai](https://github.com/not-ed/acai).
 >
 > ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [weigh-in-page](https://github.com/not-ed/acai/tree/weigh-in-page) branch on [not-ed/acai](https://github.com/not-ed/acai).
 
@@ -172,9 +172,9 @@ SQLite
 >
 > ![DELETE](https://img.shields.io/badge/DELETE-E01142?style=flat-square) Deleted `add-item-fab` branch in [not-ed/acai](https://github.com/not-ed/acai).
 >
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Merge pull request #20 from not-ed/add-item-fab](https://github.com/not-ed/acai/commit/55aef5532eff9005be0eef56ced335cd5defeb32)" in [not-ed/acai](https://github.com/not-ed/acai).
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed a commit to [not-ed/acai](https://github.com/not-ed/acai).
 >
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Corrected RowDefinitions on FoodJournalPage to avoid smooshing total counter](https://github.com/not-ed/acai/commit/a4400fd2de32414a85410ef3394e5c9557983239)" in [not-ed/acai](https://github.com/not-ed/acai).
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed a commit to [not-ed/acai](https://github.com/not-ed/acai).
 >
 > ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [add-item-fab](https://github.com/not-ed/acai/tree/add-item-fab) branch on [not-ed/acai](https://github.com/not-ed/acai).
 >
