@@ -179,8 +179,6 @@ SQLite
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Merge pull request #20 from not-ed/add-item-fab](https://github.com/not-ed/acai/commit/55aef5532eff9005be0eef56ced335cd5defeb32)" in [not-ed/acai](https://github.com/not-ed/acai).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Corrected RowDefinitions on FoodJournalPage to avoid smooshing total counter](https://github.com/not-ed/acai/commit/a4400fd2de32414a85410ef3394e5c9557983239)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [add-item-fab](https://github.com/not-ed/acai/tree/add-item-fab) branch on [not-ed/acai](https://github.com/not-ed/acai).
 
 <!-- HISTORY_END -->
 
