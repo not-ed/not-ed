@@ -166,10 +166,6 @@ SQLite
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Adjusted PushEvent logic to address regressions caused by GitHub API changes](https://github.com/not-ed/not-ed/commit/d066a0330e42130d8559c01744cbbd108fd178b8)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
 
-> ### Wed. 08 October
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created new WeightJournalPage and boilerplate to add it to AppShell](https://github.com/not-ed/acai/commit/bf2bf49f934b10096cd77530a1133c80aef9f9b3)" in [not-ed/acai](https://github.com/not-ed/acai).
-
 <!-- HISTORY_END -->
 
 </div>
