@@ -154,7 +154,7 @@ SQLite
 
 > ### Mon. 03 November
 >
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed a commit to [not-ed/acai](https://github.com/not-ed/acai).
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created new Weight Journal Table Schema](https://github.com/not-ed/acai/commit/ac89614d6e28285ac998a3d326ca5fe8e2858d2b)" in [not-ed/acai](https://github.com/not-ed/acai).
 
 > ### Sun. 26 October
 >
@@ -164,7 +164,7 @@ SQLite
 
 > ### Sun. 19 October
 >
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed a commit to [not-ed/not-ed](https://github.com/not-ed/not-ed).
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Adjusted PushEvent logic to address regressions caused by GitHub API changes](https://github.com/not-ed/not-ed/commit/d066a0330e42130d8559c01744cbbd108fd178b8)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
 
 <!-- HISTORY_END -->
 
