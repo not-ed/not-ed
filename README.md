@@ -162,10 +162,6 @@ SQLite
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added stub UI for weigh-in page entries](https://github.com/not-ed/acai/commit/443c4421b2db5c27e154d9f1f9294b284b341e71)" in [not-ed/acai](https://github.com/not-ed/acai).
 
-> ### Sun. 19 October
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Adjusted PushEvent logic to address regressions caused by GitHub API changes](https://github.com/not-ed/not-ed/commit/d066a0330e42130d8559c01744cbbd108fd178b8)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
 <!-- HISTORY_END -->
 
 </div>
