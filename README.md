@@ -148,20 +148,6 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
-> ### Wed. 05 November
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created IWeightJournalGateway interface and associated Entry DTO class](https://github.com/not-ed/acai/commit/6d7f06bb3cd0dcfa3ae3acd00ed739f38d3a2838)" in [not-ed/acai](https://github.com/not-ed/acai).
-
-> ### Mon. 03 November
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created new Weight Journal Table Schema](https://github.com/not-ed/acai/commit/ac89614d6e28285ac998a3d326ca5fe8e2858d2b)" in [not-ed/acai](https://github.com/not-ed/acai).
-
-> ### Sun. 26 October
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added DataTemplates and Command Stubs for entries to Weight Journal page](https://github.com/not-ed/acai/commit/295e0b529821ccff204af755f853708cdabc3efa)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added stub UI for weigh-in page entries](https://github.com/not-ed/acai/commit/443c4421b2db5c27e154d9f1f9294b284b341e71)" in [not-ed/acai](https://github.com/not-ed/acai).
-
 <!-- HISTORY_END -->
 
 </div>
