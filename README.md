@@ -148,10 +148,6 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
-> ### Wed. 05 November
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created IWeightJournalGateway interface and associated Entry DTO class](https://github.com/not-ed/acai/commit/6d7f06bb3cd0dcfa3ae3acd00ed739f38d3a2838)" in [not-ed/acai](https://github.com/not-ed/acai).
-
 <!-- HISTORY_END -->
 
 </div>
