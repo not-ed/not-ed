@@ -148,6 +148,10 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Sun. 07 December
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created IWeightJournalGateway-implementing class and corrected CreateNewWeighIn signature parameters](https://github.com/not-ed/acai/commit/850c0c4a0fbf5561c28c2b13bac41e6259118c51)" in [not-ed/acai](https://github.com/not-ed/acai).
+
 <!-- HISTORY_END -->
 
 </div>
