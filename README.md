@@ -150,7 +150,7 @@ SQLite
 
 > ### Tue. 16 December
 >
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed a commit to [not-ed/acai](https://github.com/not-ed/acai).
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added descending ordering for weigh-in entries on WeightJournalPageViewModel](https://github.com/not-ed/acai/commit/26d2cd4e91db9c018acb0135acea3555e7505324)" in [not-ed/acai](https://github.com/not-ed/acai).
 
 > ### Sun. 14 December
 >
