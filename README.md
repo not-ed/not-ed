@@ -164,7 +164,7 @@ SQLite
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added implementation logic for UpdateExistingWeighIn with tests](https://github.com/not-ed/acai/commit/b372ed6d540aad5bf3ccbb6e645bb784eef43e9f)" in [not-ed/acai](https://github.com/not-ed/acai).
 >
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed a commit to [not-ed/acai](https://github.com/not-ed/acai).
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added implementation for DeleteWeighIn with tests](https://github.com/not-ed/acai/commit/82f173e20e7b62dd7abbaab0344b7dc0f50d64f1)" in [not-ed/acai](https://github.com/not-ed/acai).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added implementation logic for GetAllWeighIns with tests](https://github.com/not-ed/acai/commit/1be107e74626a8fb74a9a52afce477964ddef732)" in [not-ed/acai](https://github.com/not-ed/acai).
 
