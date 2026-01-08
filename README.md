@@ -172,10 +172,6 @@ SQLite
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added GetAllWeighIns signature to IWeightJournalGateway](https://github.com/not-ed/acai/commit/9fb0561c2733dc8dc4f9613c4a34ad332d169977)" in [not-ed/acai](https://github.com/not-ed/acai).
 
-> ### Mon. 08 December
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Implemented CreateNewWeighIn logic with tests](https://github.com/not-ed/acai/commit/61d5eb7b2e2c4b45874e7debcc7652b6b2c9ce35)" in [not-ed/acai](https://github.com/not-ed/acai).
-
 <!-- HISTORY_END -->
 
 </div>
