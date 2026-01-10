@@ -154,9 +154,9 @@ SQLite
 
 > ### Sun. 14 December
 >
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed a commit to [not-ed/acai](https://github.com/not-ed/acai).
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added proper implementation for deleting Weigh In entries on Weight Journal Page](https://github.com/not-ed/acai/commit/9264d83b4f8669e942b466f76a4521e05024859d)" in [not-ed/acai](https://github.com/not-ed/acai).
 >
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed a commit to [not-ed/acai](https://github.com/not-ed/acai).
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Corrected mapping and display of Weight Journal entries to WeightJournalPage](https://github.com/not-ed/acai/commit/11d71e50610c3c92d60464f87ad6e69f9dd304f3)" in [not-ed/acai](https://github.com/not-ed/acai).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Made Weight Journal Gateway accessible in Acai Sessions](https://github.com/not-ed/acai/commit/f258e292acc8877dea4d98dc8e90e77a51b26951)" in [not-ed/acai](https://github.com/not-ed/acai).
 >
