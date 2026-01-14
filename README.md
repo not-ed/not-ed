@@ -167,8 +167,6 @@ SQLite
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Floating Action Button to WeightJournalPage](https://github.com/not-ed/acai/commit/6d8f73f5b00cc570cf6fc7f7ab81fa1548a4df9d)" in [not-ed/acai](https://github.com/not-ed/acai).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added implementation logic for UpdateExistingWeighIn with tests](https://github.com/not-ed/acai/commit/b372ed6d540aad5bf3ccbb6e645bb784eef43e9f)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added implementation for DeleteWeighIn with tests](https://github.com/not-ed/acai/commit/82f173e20e7b62dd7abbaab0344b7dc0f50d64f1)" in [not-ed/acai](https://github.com/not-ed/acai).
 
 <!-- HISTORY_END -->
 
