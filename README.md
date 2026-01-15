@@ -148,6 +148,14 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Mon. 12 January
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created new WeighInEditorPage element](https://github.com/not-ed/acai/commit/627c424d7acca93f7791ffe1c5b125b72b84bc5f)" in [not-ed/acai](https://github.com/not-ed/acai).
+
+> ### Tue. 16 December
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added descending ordering for weigh-in entries on WeightJournalPageViewModel](https://github.com/not-ed/acai/commit/26d2cd4e91db9c018acb0135acea3555e7505324)" in [not-ed/acai](https://github.com/not-ed/acai).
+
 <!-- HISTORY_END -->
 
 </div>
