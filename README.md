@@ -39,6 +39,11 @@ C#
 NUnit
 </td>
 <td align="center">
+<img width=48 height=48 src="./greebles/tech/moq.png">
+
+Moq
+</td>
+<td align="center">
 <img width=48 height=48 src="./greebles/tech/postgresql.png">
 
 PostgreSQL
