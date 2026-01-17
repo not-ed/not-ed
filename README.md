@@ -155,6 +155,8 @@ SQLite
 
 > ### Sat. 17 January
 >
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created WeighInEditorPageViewModel class](https://github.com/not-ed/acai/commit/0906d26457f37ccd9891ef593773de20337cb4a3)" in [not-ed/acai](https://github.com/not-ed/acai).
+>
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Moq to technologies list](https://github.com/not-ed/not-ed/commit/fc28c7988a9324b79aa9c1fbda63ed5f102ee006)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
 
 > ### Mon. 12 January
