@@ -153,6 +153,10 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Sat. 17 January
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Moq to technologies list](https://github.com/not-ed/not-ed/commit/fc28c7988a9324b79aa9c1fbda63ed5f102ee006)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
+
 > ### Mon. 12 January
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created new WeighInEditorPage element](https://github.com/not-ed/acai/commit/627c424d7acca93f7791ffe1c5b125b72b84bc5f)" in [not-ed/acai](https://github.com/not-ed/acai).
