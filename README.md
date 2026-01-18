@@ -155,6 +155,8 @@ SQLite
 
 > ### Sun. 18 January
 >
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added new settings option for selecting a unit of measurement for weigh-ins](https://github.com/not-ed/acai/commit/984f930ec662121f3fd52e2351bb3bcf64929c8b)" in [not-ed/acai](https://github.com/not-ed/acai).
+>
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added non-functional Settings controls for selecting a preferred unit of measurement for weigh-ins](https://github.com/not-ed/acai/commit/b4a678d56ec7b20bce1ebce2105918325009502d)" in [not-ed/acai](https://github.com/not-ed/acai).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added logic for editing existing Weigh-in entires (excluding Notes)](https://github.com/not-ed/acai/commit/5964df6c52cc07a87d78e2d8697e9a8d59caec8e)" in [not-ed/acai](https://github.com/not-ed/acai).
