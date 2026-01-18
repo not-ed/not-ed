@@ -153,6 +153,12 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Sun. 18 January
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Refactor: updated HasBeenSubmitted on WeighInEditorPage to reference BindingContext consistently to other methods](https://github.com/not-ed/acai/commit/35487f041cf2b14af0e64114e0e9c23e78b5889a)" in [not-ed/acai](https://github.com/not-ed/acai).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added bindings and logic for saving submitted details (excluding notes) from WeighInEditorPage](https://github.com/not-ed/acai/commit/463e4203cc7976e6dcb478ad48410ca90ecb7af2)" in [not-ed/acai](https://github.com/not-ed/acai).
+
 > ### Sat. 17 January
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created WeighInEditorPageViewModel class](https://github.com/not-ed/acai/commit/0906d26457f37ccd9891ef593773de20337cb4a3)" in [not-ed/acai](https://github.com/not-ed/acai).
