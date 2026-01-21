@@ -173,7 +173,7 @@ SQLite
 
 > ### Mon. 12 January
 >
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created new WeighInEditorPage element](https://github.com/not-ed/acai/commit/627c424d7acca93f7791ffe1c5b125b72b84bc5f)" in [not-ed/acai](https://github.com/not-ed/acai).
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed a commit to [not-ed/acai](https://github.com/not-ed/acai).
 
 <!-- HISTORY_END -->
 
