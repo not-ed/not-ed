@@ -153,28 +153,6 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
-> ### Sun. 18 January
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added new settings option for selecting a unit of measurement for weigh-ins](https://github.com/not-ed/acai/commit/984f930ec662121f3fd52e2351bb3bcf64929c8b)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added non-functional Settings controls for selecting a preferred unit of measurement for weigh-ins](https://github.com/not-ed/acai/commit/b4a678d56ec7b20bce1ebce2105918325009502d)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added logic for editing existing Weigh-in entires (excluding Notes)](https://github.com/not-ed/acai/commit/5964df6c52cc07a87d78e2d8697e9a8d59caec8e)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Refactor: updated HasBeenSubmitted on WeighInEditorPage to reference BindingContext consistently to other methods](https://github.com/not-ed/acai/commit/35487f041cf2b14af0e64114e0e9c23e78b5889a)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added bindings and logic for saving submitted details (excluding notes) from WeighInEditorPage](https://github.com/not-ed/acai/commit/463e4203cc7976e6dcb478ad48410ca90ecb7af2)" in [not-ed/acai](https://github.com/not-ed/acai).
-
-> ### Sat. 17 January
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created WeighInEditorPageViewModel class](https://github.com/not-ed/acai/commit/0906d26457f37ccd9891ef593773de20337cb4a3)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Moq to technologies list](https://github.com/not-ed/not-ed/commit/fc28c7988a9324b79aa9c1fbda63ed5f102ee006)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
-> ### Mon. 12 January
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created new WeighInEditorPage element](https://github.com/not-ed/acai/commit/627c424d7acca93f7791ffe1c5b125b72b84bc5f)" in [not-ed/acai](https://github.com/not-ed/acai).
-
 <!-- HISTORY_END -->
 
 </div>
