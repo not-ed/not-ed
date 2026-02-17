@@ -165,10 +165,6 @@ SQLite
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added bindings and logic for saving submitted details (excluding notes) from WeighInEditorPage](https://github.com/not-ed/acai/commit/463e4203cc7976e6dcb478ad48410ca90ecb7af2)" in [not-ed/acai](https://github.com/not-ed/acai).
 
-> ### Sat. 17 January
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created WeighInEditorPageViewModel class](https://github.com/not-ed/acai/commit/0906d26457f37ccd9891ef593773de20337cb4a3)" in [not-ed/acai](https://github.com/not-ed/acai).
-
 <!-- HISTORY_END -->
 
 </div>
