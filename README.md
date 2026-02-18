@@ -160,10 +160,6 @@ SQLite
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added non-functional Settings controls for selecting a preferred unit of measurement for weigh-ins](https://github.com/not-ed/acai/commit/b4a678d56ec7b20bce1ebce2105918325009502d)" in [not-ed/acai](https://github.com/not-ed/acai).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added logic for editing existing Weigh-in entires (excluding Notes)](https://github.com/not-ed/acai/commit/5964df6c52cc07a87d78e2d8697e9a8d59caec8e)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Refactor: updated HasBeenSubmitted on WeighInEditorPage to reference BindingContext consistently to other methods](https://github.com/not-ed/acai/commit/35487f041cf2b14af0e64114e0e9c23e78b5889a)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added bindings and logic for saving submitted details (excluding notes) from WeighInEditorPage](https://github.com/not-ed/acai/commit/463e4203cc7976e6dcb478ad48410ca90ecb7af2)" in [not-ed/acai](https://github.com/not-ed/acai).
 
 <!-- HISTORY_END -->
 
