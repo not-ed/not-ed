@@ -153,10 +153,6 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
-> ### Sun. 18 January
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added new settings option for selecting a unit of measurement for weigh-ins](https://github.com/not-ed/acai/commit/984f930ec662121f3fd52e2351bb3bcf64929c8b)" in [not-ed/acai](https://github.com/not-ed/acai).
-
 <!-- HISTORY_END -->
 
 </div>
