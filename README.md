@@ -153,10 +153,6 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
-> ### Sun. 22 February
->
-> ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage).
-
 <!-- HISTORY_END -->
 
 </div>
