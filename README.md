@@ -153,6 +153,18 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Thu. 19 March
+>
+> ![COMMENT](https://img.shields.io/badge/COMMENT-1173E0?style=flat-square) Commented on a [commit](https://github.com/not-ed/events-sandbox/commit/35126e7ed76ca0537ab9e7f692efe84a6012eb9d#commitcomment-180053807) to [not-ed/events-sandbox](https://github.com/not-ed/events-sandbox).
+
+> ### Sun. 08 March
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Wired up display of different weigh-in measurements settings to weigh-in list](https://github.com/not-ed/acai/commit/16e412133e6d25541085a97572c1865e98be81f3)" in [not-ed/acai](https://github.com/not-ed/acai).
+
+> ### Sun. 22 February
+>
+> ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage).
+
 <!-- HISTORY_END -->
 
 </div>
