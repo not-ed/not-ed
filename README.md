@@ -153,6 +153,14 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Sat. 28 March
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added .funcignore file](https://github.com/not-ed/whoami-api-functions/commit/17bbaf737f26f9c4aa88fb04e719b69983dbee2d)" in [not-ed/whoami-api-functions](https://github.com/not-ed/whoami-api-functions).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added .vscode/ to .gitignore file](https://github.com/not-ed/whoami-api-functions/commit/6ad1e7acf91dcaf8321b62e3b8a33ede179f6958)" in [not-ed/whoami-api-functions](https://github.com/not-ed/whoami-api-functions).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added logic for github_events_import Function](https://github.com/not-ed/whoami-api-functions/commit/c5920ef5f5156d13e9939a06cf1a2310415f9678)" in [not-ed/whoami-api-functions](https://github.com/not-ed/whoami-api-functions).
+
 > ### Mon. 23 March
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added](https://github.com/not-ed/whoami-api-functions/commit/722dc022926f78561fef8ea3b0c87cfbbf6cfcbc)" in [not-ed/whoami-api-functions](https://github.com/not-ed/whoami-api-functions).
