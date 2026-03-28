@@ -155,6 +155,8 @@ SQLite
 
 > ### Sat. 28 March
 >
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added logic for github_events_import Function](https://github.com/not-ed/whoami-api-functions/commit/ad88b969cf47fd09a28230b7096a4f947843f43b)" in [not-ed/whoami-api-functions](https://github.com/not-ed/whoami-api-functions).
+>
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added .funcignore file](https://github.com/not-ed/whoami-api-functions/commit/17bbaf737f26f9c4aa88fb04e719b69983dbee2d)" in [not-ed/whoami-api-functions](https://github.com/not-ed/whoami-api-functions).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added .vscode/ to .gitignore file](https://github.com/not-ed/whoami-api-functions/commit/6ad1e7acf91dcaf8321b62e3b8a33ede179f6958)" in [not-ed/whoami-api-functions](https://github.com/not-ed/whoami-api-functions).
