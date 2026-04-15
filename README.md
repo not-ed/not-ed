@@ -153,6 +153,10 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Wed. 15 April
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created a minimal ASP.NET API project for serving the whoami API](https://github.com/not-ed/whoami-api-functions/commit/f7d106674dfebf96a45d5ea60b2cd78d31d875a5)" in [not-ed/whoami-api-functions](https://github.com/not-ed/whoami-api-functions).
+
 > ### Sat. 28 March
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created README inside of azure-functions](https://github.com/not-ed/whoami-api-functions/commit/cd69243525f9afa0d5a92b6465d75d3f8ce1a553)" in [not-ed/whoami-api-functions](https://github.com/not-ed/whoami-api-functions).
