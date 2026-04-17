@@ -155,17 +155,17 @@ SQLite
 
 > ### Wed. 15 April
 >
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed a commit to [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created a minimal ASP.NET API project for serving the whoami API](https://github.com/not-ed/whoami-api/commit/f7d106674dfebf96a45d5ea60b2cd78d31d875a5)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 
 > ### Sat. 28 March
 >
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed a commit to [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created README inside of azure-functions](https://github.com/not-ed/whoami-api/commit/cd69243525f9afa0d5a92b6465d75d3f8ce1a553)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 >
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed a commit to [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Refactor: moved Azure Functions related artefacts into azure-functions directory](https://github.com/not-ed/whoami-api/commit/63e592a803866d823e4581d3f80a9b511ee93c7e)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created database-migrations directory to house schema migrations for SQL Server](https://github.com/not-ed/whoami-api/commit/4b941337eb7fa3f3e861bf981842ce3557ae63e2)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 >
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed a commit to [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added logic for github_events_import Function](https://github.com/not-ed/whoami-api/commit/ad88b969cf47fd09a28230b7096a4f947843f43b)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added .funcignore file](https://github.com/not-ed/whoami-api/commit/17bbaf737f26f9c4aa88fb04e719b69983dbee2d)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 >
