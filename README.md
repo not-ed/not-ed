@@ -173,10 +173,6 @@ SQLite
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added logic for github_events_import Function](https://github.com/not-ed/whoami-api/commit/c5920ef5f5156d13e9939a06cf1a2310415f9678)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 
-> ### Mon. 23 March
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added](https://github.com/not-ed/whoami-api/commit/722dc022926f78561fef8ea3b0c87cfbbf6cfcbc)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
-
 <!-- HISTORY_END -->
 
 </div>
