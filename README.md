@@ -164,14 +164,6 @@ SQLite
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Refactor: moved Azure Functions related artefacts into azure-functions directory](https://github.com/not-ed/whoami-api/commit/63e592a803866d823e4581d3f80a9b511ee93c7e)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created database-migrations directory to house schema migrations for SQL Server](https://github.com/not-ed/whoami-api/commit/4b941337eb7fa3f3e861bf981842ce3557ae63e2)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added logic for github_events_import Function](https://github.com/not-ed/whoami-api/commit/ad88b969cf47fd09a28230b7096a4f947843f43b)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added .funcignore file](https://github.com/not-ed/whoami-api/commit/17bbaf737f26f9c4aa88fb04e719b69983dbee2d)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added .vscode/ to .gitignore file](https://github.com/not-ed/whoami-api/commit/6ad1e7acf91dcaf8321b62e3b8a33ede179f6958)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added logic for github_events_import Function](https://github.com/not-ed/whoami-api/commit/c5920ef5f5156d13e9939a06cf1a2310415f9678)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 
 <!-- HISTORY_END -->
 
