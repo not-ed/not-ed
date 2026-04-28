@@ -49,6 +49,15 @@ Moq
 PostgreSQL
 </td>
 <td align="center">
+<img width=48 height=48 src="./greebles/tech/aws.png">
+
+AWS
+</td>
+<td align="center">
+<img width=48 height=48 src="./greebles/tech/terraform.png">
+
+Terraform
+</td><td align="center">
 <img width=48 height=48 src="./greebles/tech/sqlserver.png">
 
 SQL Server
