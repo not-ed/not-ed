@@ -162,8 +162,6 @@ SQLite
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created README inside of azure-functions](https://github.com/not-ed/whoami-api/commit/cd69243525f9afa0d5a92b6465d75d3f8ce1a553)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Refactor: moved Azure Functions related artefacts into azure-functions directory](https://github.com/not-ed/whoami-api/commit/63e592a803866d823e4581d3f80a9b511ee93c7e)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created database-migrations directory to house schema migrations for SQL Server](https://github.com/not-ed/whoami-api/commit/4b941337eb7fa3f3e861bf981842ce3557ae63e2)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 
 <!-- HISTORY_END -->
 
