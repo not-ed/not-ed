@@ -162,14 +162,6 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
-> ### Tue. 28 April
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added AWS and Terraform to list of professional technologies](https://github.com/not-ed/not-ed/commit/7163834c8befc6fab3301f521be0b5d7346214d3)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
-> ### Wed. 15 April
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created a minimal ASP.NET API project for serving the whoami API](https://github.com/not-ed/whoami-api/commit/f7d106674dfebf96a45d5ea60b2cd78d31d875a5)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
-
 <!-- HISTORY_END -->
 
 </div>
