@@ -164,6 +164,8 @@ SQLite
 
 > ### Sun. 03 May
 >
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Moved activity feed stub into dedicated Service](https://github.com/not-ed/whoami-api/commit/bf6f5f4f8cc2111b022cfe53ade334435edaf3b0)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
 > ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [dandavison/delta](https://github.com/dandavison/delta).
 
 > ### Tue. 28 April
