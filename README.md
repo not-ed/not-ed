@@ -162,6 +162,10 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Sun. 03 May
+>
+> ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [dandavison/delta](https://github.com/dandavison/delta).
+
 > ### Tue. 28 April
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added AWS and Terraform to list of professional technologies](https://github.com/not-ed/not-ed/commit/7163834c8befc6fab3301f521be0b5d7346214d3)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
