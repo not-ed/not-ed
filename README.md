@@ -162,6 +162,12 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Mon. 04 May
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added .gitignore file for App Service project](https://github.com/not-ed/whoami-api/commit/91c7921d8afe7ad42f8596aaa2978e607a462f8e)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Moved App Service project runtime to .NET 10](https://github.com/not-ed/whoami-api/commit/5b48646bd4cb66210cedcb9f96653ff9b9019a98)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
 > ### Sun. 03 May
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Moved activity feed stub into dedicated Service](https://github.com/not-ed/whoami-api/commit/bf6f5f4f8cc2111b022cfe53ade334435edaf3b0)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
