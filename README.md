@@ -164,6 +164,8 @@ SQLite
 
 > ### Mon. 04 May
 >
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Moved requirements.txt that was accidentally left behind into azure-functions](https://github.com/not-ed/whoami-api/commit/25c6b4ba402dae299e56b67923997db050bb57bc)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added .gitignore file for App Service project](https://github.com/not-ed/whoami-api/commit/91c7921d8afe7ad42f8596aaa2978e607a462f8e)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Moved App Service project runtime to .NET 10](https://github.com/not-ed/whoami-api/commit/5b48646bd4cb66210cedcb9f96653ff9b9019a98)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
