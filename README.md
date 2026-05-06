@@ -162,6 +162,10 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Wed. 06 May
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Replaced quotes in f-strings with single quotes to resolve runtime errors](https://github.com/not-ed/whoami-api/commit/fc835bba67be04df6f15495f10c960e7eb00dacf)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
 > ### Mon. 04 May
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Moved requirements.txt that was accidentally left behind into azure-functions](https://github.com/not-ed/whoami-api/commit/25c6b4ba402dae299e56b67923997db050bb57bc)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
