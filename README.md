@@ -164,6 +164,8 @@ SQLite
 
 > ### Wed. 06 May
 >
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added local development setup instructions to Azure Functions README](https://github.com/not-ed/whoami-api/commit/8eabebd7a388e2f792e198bca1a4dfcb99448806)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Replaced quotes in f-strings with single quotes to resolve runtime errors](https://github.com/not-ed/whoami-api/commit/fc835bba67be04df6f15495f10c960e7eb00dacf)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 
 > ### Mon. 04 May
