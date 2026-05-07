@@ -162,6 +162,14 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Thu. 07 May
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Azure Functions: fixed logging typo](https://github.com/not-ed/whoami-api/commit/17642f05a17908f8a305119ddc13903a675cd63b)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Azure Functions: added early return to failing Environment Variable checks that was missed](https://github.com/not-ed/whoami-api/commit/ef11e7852702a67bd5b85010d1df0b594f293f88)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Azure Functions: replaced print calls with logging calls for better observability in Application Insights](https://github.com/not-ed/whoami-api/commit/e21a85787a23f67e6e3c22cc58e1f01d276087a6)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
 > ### Wed. 06 May
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added local development setup instructions to Azure Functions README](https://github.com/not-ed/whoami-api/commit/8eabebd7a388e2f792e198bca1a4dfcb99448806)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
@@ -181,14 +189,6 @@ SQLite
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Moved activity feed stub into dedicated Service](https://github.com/not-ed/whoami-api/commit/bf6f5f4f8cc2111b022cfe53ade334435edaf3b0)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 >
 > ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [dandavison/delta](https://github.com/dandavison/delta).
-
-> ### Tue. 28 April
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added AWS and Terraform to list of professional technologies](https://github.com/not-ed/not-ed/commit/7163834c8befc6fab3301f521be0b5d7346214d3)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
-
-> ### Wed. 15 April
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created a minimal ASP.NET API project for serving the whoami API](https://github.com/not-ed/whoami-api/commit/f7d106674dfebf96a45d5ea60b2cd78d31d875a5)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 
 <!-- HISTORY_END -->
 
