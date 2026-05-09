@@ -162,6 +162,10 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Sat. 09 May
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added .gitignore file for Terraform](https://github.com/not-ed/whoami-api/commit/e9477d7d788e859892584eb4ea93056857c4a6d1)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
 > ### Thu. 07 May
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Azure Functions: fixed logging typo](https://github.com/not-ed/whoami-api/commit/17642f05a17908f8a305119ddc13903a675cd63b)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
