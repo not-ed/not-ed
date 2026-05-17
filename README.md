@@ -164,6 +164,8 @@ SQLite
 
 > ### Sun. 17 May
 >
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Terraform setup instructions to root README](https://github.com/not-ed/whoami-api/commit/5d46393b43c57f8917f20c6210f1b4919dd6050b)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Terraform file which defines major infrastructural components](https://github.com/not-ed/whoami-api/commit/66d3d6030d9e323f9944a9277a7aa695d3a22103)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 
 > ### Sat. 09 May
