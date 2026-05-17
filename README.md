@@ -164,6 +164,10 @@ SQLite
 
 > ### Sun. 17 May
 >
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Removed Terraform setup instructions out of wrong README into base README](https://github.com/not-ed/whoami-api/commit/d2d6ab0ef2cd87a6fb00d7c81f3ca76aba78388d)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added various Key Vault Secrets required by Functions (with Key Vault Administrator role assignment for Tenant User)](https://github.com/not-ed/whoami-api/commit/aae11a4ca43ca666ffa74f7ca28a5335d6226d35)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Removing azure-tenant-id as explicit Terraform variable in favour of azurerm_client_config Data Source](https://github.com/not-ed/whoami-api/commit/d4eac0d092d26b8ef5607cf10f524d87a4a0cb1d)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Terraform setup instructions to root README](https://github.com/not-ed/whoami-api/commit/5d46393b43c57f8917f20c6210f1b4919dd6050b)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
@@ -187,14 +191,6 @@ SQLite
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added local development setup instructions to Azure Functions README](https://github.com/not-ed/whoami-api/commit/8eabebd7a388e2f792e198bca1a4dfcb99448806)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Replaced quotes in f-strings with single quotes to resolve runtime errors](https://github.com/not-ed/whoami-api/commit/fc835bba67be04df6f15495f10c960e7eb00dacf)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
-
-> ### Mon. 04 May
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Moved requirements.txt that was accidentally left behind into azure-functions](https://github.com/not-ed/whoami-api/commit/25c6b4ba402dae299e56b67923997db050bb57bc)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added .gitignore file for App Service project](https://github.com/not-ed/whoami-api/commit/91c7921d8afe7ad42f8596aaa2978e607a462f8e)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Moved App Service project runtime to .NET 10](https://github.com/not-ed/whoami-api/commit/5b48646bd4cb66210cedcb9f96653ff9b9019a98)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 
 <!-- HISTORY_END -->
 
