@@ -164,6 +164,8 @@ SQLite
 
 > ### Mon. 18 May
 >
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated Terraform backend to persist state inside of Azure Blob Storage](https://github.com/not-ed/whoami-api/commit/a30871f7bfd5960194bc619a0bfd7138f9214b7c)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Corrected whitespace formatting inside whoami-api.tf](https://github.com/not-ed/whoami-api/commit/7670acfdceab8ab740dd9ce6cf00e9a23fac00f6)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 
 > ### Sun. 17 May
