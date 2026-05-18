@@ -162,6 +162,34 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Mon. 18 May
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Corrected whitespace formatting inside whoami-api.tf](https://github.com/not-ed/whoami-api/commit/7670acfdceab8ab740dd9ce6cf00e9a23fac00f6)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
+> ### Sun. 17 May
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Removed Terraform setup instructions out of wrong README into base README](https://github.com/not-ed/whoami-api/commit/d2d6ab0ef2cd87a6fb00d7c81f3ca76aba78388d)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added various Key Vault Secrets required by Functions (with Key Vault Administrator role assignment for Tenant User)](https://github.com/not-ed/whoami-api/commit/aae11a4ca43ca666ffa74f7ca28a5335d6226d35)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Removing azure-tenant-id as explicit Terraform variable in favour of azurerm_client_config Data Source](https://github.com/not-ed/whoami-api/commit/d4eac0d092d26b8ef5607cf10f524d87a4a0cb1d)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Terraform setup instructions to root README](https://github.com/not-ed/whoami-api/commit/5d46393b43c57f8917f20c6210f1b4919dd6050b)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Terraform file which defines major infrastructural components](https://github.com/not-ed/whoami-api/commit/66d3d6030d9e323f9944a9277a7aa695d3a22103)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
+> ### Sat. 09 May
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added .gitignore file for Terraform](https://github.com/not-ed/whoami-api/commit/e9477d7d788e859892584eb4ea93056857c4a6d1)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
+> ### Thu. 07 May
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Azure Functions: fixed logging typo](https://github.com/not-ed/whoami-api/commit/17642f05a17908f8a305119ddc13903a675cd63b)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Azure Functions: added early return to failing Environment Variable checks that was missed](https://github.com/not-ed/whoami-api/commit/ef11e7852702a67bd5b85010d1df0b594f293f88)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Azure Functions: replaced print calls with logging calls for better observability in Application Insights](https://github.com/not-ed/whoami-api/commit/e21a85787a23f67e6e3c22cc58e1f01d276087a6)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
 <!-- HISTORY_END -->
 
 </div>
