@@ -162,6 +162,10 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Mon. 18 May
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Corrected whitespace formatting inside whoami-api.tf](https://github.com/not-ed/whoami-api/commit/7670acfdceab8ab740dd9ce6cf00e9a23fac00f6)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
 > ### Sun. 17 May
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Removed Terraform setup instructions out of wrong README into base README](https://github.com/not-ed/whoami-api/commit/d2d6ab0ef2cd87a6fb00d7c81f3ca76aba78388d)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
@@ -185,12 +189,6 @@ SQLite
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Azure Functions: added early return to failing Environment Variable checks that was missed](https://github.com/not-ed/whoami-api/commit/ef11e7852702a67bd5b85010d1df0b594f293f88)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Azure Functions: replaced print calls with logging calls for better observability in Application Insights](https://github.com/not-ed/whoami-api/commit/e21a85787a23f67e6e3c22cc58e1f01d276087a6)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
-
-> ### Wed. 06 May
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added local development setup instructions to Azure Functions README](https://github.com/not-ed/whoami-api/commit/8eabebd7a388e2f792e198bca1a4dfcb99448806)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Replaced quotes in f-strings with single quotes to resolve runtime errors](https://github.com/not-ed/whoami-api/commit/fc835bba67be04df6f15495f10c960e7eb00dacf)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 
 <!-- HISTORY_END -->
 
