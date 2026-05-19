@@ -164,6 +164,8 @@ SQLite
 
 > ### Tue. 19 May
 >
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Corrected DatabaseServerName Key Vault Secret mapping to resolve Function connectivity issues](https://github.com/not-ed/whoami-api/commit/1828e3e01b0fc71f91456bdffb924375e0662b48)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Storage Container for use by Azure Functions, which wasn't set up properly](https://github.com/not-ed/whoami-api/commit/da8fe60c9ddb33dceaa2c606addfd35a82dae642)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Wired up Key Vault Secrets to environment variables in Functions App](https://github.com/not-ed/whoami-api/commit/61d87148b8ddbb72c3b038155a9303dcef6584b9)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
@@ -185,10 +187,6 @@ SQLite
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Terraform setup instructions to root README](https://github.com/not-ed/whoami-api/commit/5d46393b43c57f8917f20c6210f1b4919dd6050b)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Terraform file which defines major infrastructural components](https://github.com/not-ed/whoami-api/commit/66d3d6030d9e323f9944a9277a7aa695d3a22103)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
-
-> ### Sat. 09 May
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added .gitignore file for Terraform](https://github.com/not-ed/whoami-api/commit/e9477d7d788e859892584eb4ea93056857c4a6d1)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 
 <!-- HISTORY_END -->
 
