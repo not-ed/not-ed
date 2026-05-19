@@ -164,6 +164,8 @@ SQLite
 
 > ### Tue. 19 May
 >
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Storage Container for use by Azure Functions, which wasn't set up properly](https://github.com/not-ed/whoami-api/commit/da8fe60c9ddb33dceaa2c606addfd35a82dae642)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Wired up Key Vault Secrets to environment variables in Functions App](https://github.com/not-ed/whoami-api/commit/61d87148b8ddbb72c3b038155a9303dcef6584b9)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 
 > ### Mon. 18 May
@@ -187,14 +189,6 @@ SQLite
 > ### Sat. 09 May
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added .gitignore file for Terraform](https://github.com/not-ed/whoami-api/commit/e9477d7d788e859892584eb4ea93056857c4a6d1)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
-
-> ### Thu. 07 May
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Azure Functions: fixed logging typo](https://github.com/not-ed/whoami-api/commit/17642f05a17908f8a305119ddc13903a675cd63b)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Azure Functions: added early return to failing Environment Variable checks that was missed](https://github.com/not-ed/whoami-api/commit/ef11e7852702a67bd5b85010d1df0b594f293f88)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Azure Functions: replaced print calls with logging calls for better observability in Application Insights](https://github.com/not-ed/whoami-api/commit/e21a85787a23f67e6e3c22cc58e1f01d276087a6)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 
 <!-- HISTORY_END -->
 
