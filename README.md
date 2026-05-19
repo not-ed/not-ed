@@ -162,6 +162,10 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Tue. 19 May
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Wired up Key Vault Secrets to environment variables in Functions App](https://github.com/not-ed/whoami-api/commit/61d87148b8ddbb72c3b038155a9303dcef6584b9)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
 > ### Mon. 18 May
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated Terraform backend to persist state inside of Azure Blob Storage](https://github.com/not-ed/whoami-api/commit/a30871f7bfd5960194bc619a0bfd7138f9214b7c)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
