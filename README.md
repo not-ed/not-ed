@@ -162,6 +162,10 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Thu. 21 May
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[App Service: added Entity Framework Core as a dependency](https://github.com/not-ed/whoami-api/commit/70c6c88344674b28430b5d27281f441a22b54c79)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
 > ### Tue. 19 May
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Corrected DatabaseServerName Key Vault Secret mapping to resolve Function connectivity issues](https://github.com/not-ed/whoami-api/commit/1828e3e01b0fc71f91456bdffb924375e0662b48)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
