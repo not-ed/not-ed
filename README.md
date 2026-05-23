@@ -162,6 +162,36 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Thu. 21 May
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[App Service: added Entity Framework Core as a dependency](https://github.com/not-ed/whoami-api/commit/70c6c88344674b28430b5d27281f441a22b54c79)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
+> ### Tue. 19 May
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Corrected DatabaseServerName Key Vault Secret mapping to resolve Function connectivity issues](https://github.com/not-ed/whoami-api/commit/1828e3e01b0fc71f91456bdffb924375e0662b48)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Storage Container for use by Azure Functions, which wasn't set up properly](https://github.com/not-ed/whoami-api/commit/da8fe60c9ddb33dceaa2c606addfd35a82dae642)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Wired up Key Vault Secrets to environment variables in Functions App](https://github.com/not-ed/whoami-api/commit/61d87148b8ddbb72c3b038155a9303dcef6584b9)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
+> ### Mon. 18 May
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated Terraform backend to persist state inside of Azure Blob Storage](https://github.com/not-ed/whoami-api/commit/a30871f7bfd5960194bc619a0bfd7138f9214b7c)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Corrected whitespace formatting inside whoami-api.tf](https://github.com/not-ed/whoami-api/commit/7670acfdceab8ab740dd9ce6cf00e9a23fac00f6)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
+> ### Sun. 17 May
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Removed Terraform setup instructions out of wrong README into base README](https://github.com/not-ed/whoami-api/commit/d2d6ab0ef2cd87a6fb00d7c81f3ca76aba78388d)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added various Key Vault Secrets required by Functions (with Key Vault Administrator role assignment for Tenant User)](https://github.com/not-ed/whoami-api/commit/aae11a4ca43ca666ffa74f7ca28a5335d6226d35)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Removing azure-tenant-id as explicit Terraform variable in favour of azurerm_client_config Data Source](https://github.com/not-ed/whoami-api/commit/d4eac0d092d26b8ef5607cf10f524d87a4a0cb1d)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Terraform setup instructions to root README](https://github.com/not-ed/whoami-api/commit/5d46393b43c57f8917f20c6210f1b4919dd6050b)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Terraform file which defines major infrastructural components](https://github.com/not-ed/whoami-api/commit/66d3d6030d9e323f9944a9277a7aa695d3a22103)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
 <!-- HISTORY_END -->
 
 </div>
