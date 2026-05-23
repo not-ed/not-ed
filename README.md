@@ -164,6 +164,10 @@ SQLite
 
 > ### Sat. 23 May
 >
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Corrected Terraform whitespace / formatting](https://github.com/not-ed/whoami-api/commit/0ad0d93f2d1274d76ab620e4010761b6d6d8204a)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added DbContext for github_events table (and other boilerplate / connection string creation)](https://github.com/not-ed/whoami-api/commit/b56fc155e180f4469360eab2247b4048c7a8ce24)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Removed appsettings.Development.json from VCS](https://github.com/not-ed/whoami-api/commit/1dac8d37742b9be319236166ac0726c063047867)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Wired up Key Vault secrets to App Service for database connectivity](https://github.com/not-ed/whoami-api/commit/c90d71854a11eb5536ac6a79f8110fe8e5b5cb0c)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
@@ -187,18 +191,6 @@ SQLite
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated Terraform backend to persist state inside of Azure Blob Storage](https://github.com/not-ed/whoami-api/commit/a30871f7bfd5960194bc619a0bfd7138f9214b7c)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Corrected whitespace formatting inside whoami-api.tf](https://github.com/not-ed/whoami-api/commit/7670acfdceab8ab740dd9ce6cf00e9a23fac00f6)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
-
-> ### Sun. 17 May
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Removed Terraform setup instructions out of wrong README into base README](https://github.com/not-ed/whoami-api/commit/d2d6ab0ef2cd87a6fb00d7c81f3ca76aba78388d)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added various Key Vault Secrets required by Functions (with Key Vault Administrator role assignment for Tenant User)](https://github.com/not-ed/whoami-api/commit/aae11a4ca43ca666ffa74f7ca28a5335d6226d35)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Removing azure-tenant-id as explicit Terraform variable in favour of azurerm_client_config Data Source](https://github.com/not-ed/whoami-api/commit/d4eac0d092d26b8ef5607cf10f524d87a4a0cb1d)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Terraform setup instructions to root README](https://github.com/not-ed/whoami-api/commit/5d46393b43c57f8917f20c6210f1b4919dd6050b)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Terraform file which defines major infrastructural components](https://github.com/not-ed/whoami-api/commit/66d3d6030d9e323f9944a9277a7aa695d3a22103)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 
 <!-- HISTORY_END -->
 
