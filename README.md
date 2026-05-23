@@ -162,6 +162,10 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Sat. 23 May
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[App Service: added SQL Server provider for EF Core](https://github.com/not-ed/whoami-api/commit/21db6922b843d58c0f33b47504859ed16c2363bd)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
 > ### Thu. 21 May
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[App Service: added Entity Framework Core as a dependency](https://github.com/not-ed/whoami-api/commit/70c6c88344674b28430b5d27281f441a22b54c79)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
