@@ -164,6 +164,8 @@ SQLite
 
 > ### Sat. 23 May
 >
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Wired up Key Vault secrets to App Service for database connectivity](https://github.com/not-ed/whoami-api/commit/c90d71854a11eb5536ac6a79f8110fe8e5b5cb0c)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[App Service: added SQL Server provider for EF Core](https://github.com/not-ed/whoami-api/commit/21db6922b843d58c0f33b47504859ed16c2363bd)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 
 > ### Thu. 21 May
