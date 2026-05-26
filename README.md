@@ -162,6 +162,10 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Tue. 26 May
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added *.Development.json to .gitignore](https://github.com/not-ed/whoami-api/commit/5bc579f7ed5b82b1a9e92fb011634e73f8a4bb14)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
 > ### Sat. 23 May
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Corrected Terraform whitespace / formatting](https://github.com/not-ed/whoami-api/commit/0ad0d93f2d1274d76ab620e4010761b6d6d8204a)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
@@ -185,12 +189,6 @@ SQLite
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Storage Container for use by Azure Functions, which wasn't set up properly](https://github.com/not-ed/whoami-api/commit/da8fe60c9ddb33dceaa2c606addfd35a82dae642)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Wired up Key Vault Secrets to environment variables in Functions App](https://github.com/not-ed/whoami-api/commit/61d87148b8ddbb72c3b038155a9303dcef6584b9)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
-
-> ### Mon. 18 May
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated Terraform backend to persist state inside of Azure Blob Storage](https://github.com/not-ed/whoami-api/commit/a30871f7bfd5960194bc619a0bfd7138f9214b7c)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Corrected whitespace formatting inside whoami-api.tf](https://github.com/not-ed/whoami-api/commit/7670acfdceab8ab740dd9ce6cf00e9a23fac00f6)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 
 <!-- HISTORY_END -->
 
