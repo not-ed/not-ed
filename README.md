@@ -162,6 +162,10 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Wed. 27 May
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added JSON serialization/deserialization at DbContext level for GitHub Events](https://github.com/not-ed/whoami-api/commit/c19f913a64dc5d21c1b9d3044bbd448e9c97f71f)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
 > ### Tue. 26 May
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added *.Development.json to .gitignore](https://github.com/not-ed/whoami-api/commit/5bc579f7ed5b82b1a9e92fb011634e73f8a4bb14)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
