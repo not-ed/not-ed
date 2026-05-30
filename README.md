@@ -162,6 +162,14 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Sat. 30 May
+>
+> ![DELETE](https://img.shields.io/badge/DELETE-E01142?style=flat-square) Deleted `dotnet10-upgrade` branch in [not-ed/acai](https://github.com/not-ed/acai).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Merge pull request #21 from not-ed/dotnet10-upgrade](https://github.com/not-ed/acai/commit/f6b8d62d7b018c6e5d81f840a7bdc031a5f89194)" in [not-ed/acai](https://github.com/not-ed/acai).
+>
+> ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [dotnet10-upgrade](https://github.com/not-ed/acai/tree/dotnet10-upgrade) branch on [not-ed/acai](https://github.com/not-ed/acai).
+
 > ### Wed. 27 May
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added JSON serialization/deserialization at DbContext level for GitHub Events](https://github.com/not-ed/whoami-api/commit/c19f913a64dc5d21c1b9d3044bbd448e9c97f71f)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
@@ -181,18 +189,6 @@ SQLite
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Wired up Key Vault secrets to App Service for database connectivity](https://github.com/not-ed/whoami-api/commit/c90d71854a11eb5536ac6a79f8110fe8e5b5cb0c)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[App Service: added SQL Server provider for EF Core](https://github.com/not-ed/whoami-api/commit/21db6922b843d58c0f33b47504859ed16c2363bd)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
-
-> ### Thu. 21 May
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[App Service: added Entity Framework Core as a dependency](https://github.com/not-ed/whoami-api/commit/70c6c88344674b28430b5d27281f441a22b54c79)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
-
-> ### Tue. 19 May
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Corrected DatabaseServerName Key Vault Secret mapping to resolve Function connectivity issues](https://github.com/not-ed/whoami-api/commit/1828e3e01b0fc71f91456bdffb924375e0662b48)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Storage Container for use by Azure Functions, which wasn't set up properly](https://github.com/not-ed/whoami-api/commit/da8fe60c9ddb33dceaa2c606addfd35a82dae642)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Wired up Key Vault Secrets to environment variables in Functions App](https://github.com/not-ed/whoami-api/commit/61d87148b8ddbb72c3b038155a9303dcef6584b9)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 
 <!-- HISTORY_END -->
 
