@@ -162,6 +162,42 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Sat. 30 May
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated Android Build actions to reference new .NET 10 version](https://github.com/not-ed/acai/commit/0aa2014b9882cafaf2a8e237aa9714f14984ffb5)" in [not-ed/acai](https://github.com/not-ed/acai).
+>
+> ![DELETE](https://img.shields.io/badge/DELETE-E01142?style=flat-square) Deleted `macro-totals` branch in [not-ed/acai](https://github.com/not-ed/acai).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Merge pull request #22 from not-ed/macro-totals](https://github.com/not-ed/acai/commit/4b18232d233a9ce59dc50ed5ce328a882ac61827)" in [not-ed/acai](https://github.com/not-ed/acai).
+>
+> ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [macro-totals](https://github.com/not-ed/acai/tree/macro-totals) branch on [not-ed/acai](https://github.com/not-ed/acai).
+>
+> ![DELETE](https://img.shields.io/badge/DELETE-E01142?style=flat-square) Deleted `dotnet10-upgrade` branch in [not-ed/acai](https://github.com/not-ed/acai).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Merge pull request #21 from not-ed/dotnet10-upgrade](https://github.com/not-ed/acai/commit/f6b8d62d7b018c6e5d81f840a7bdc031a5f89194)" in [not-ed/acai](https://github.com/not-ed/acai).
+>
+> ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [dotnet10-upgrade](https://github.com/not-ed/acai/tree/dotnet10-upgrade) branch on [not-ed/acai](https://github.com/not-ed/acai).
+
+> ### Wed. 27 May
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added JSON serialization/deserialization at DbContext level for GitHub Events](https://github.com/not-ed/whoami-api/commit/c19f913a64dc5d21c1b9d3044bbd448e9c97f71f)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
+> ### Tue. 26 May
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added *.Development.json to .gitignore](https://github.com/not-ed/whoami-api/commit/5bc579f7ed5b82b1a9e92fb011634e73f8a4bb14)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
+> ### Sat. 23 May
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Corrected Terraform whitespace / formatting](https://github.com/not-ed/whoami-api/commit/0ad0d93f2d1274d76ab620e4010761b6d6d8204a)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added DbContext for github_events table (and other boilerplate / connection string creation)](https://github.com/not-ed/whoami-api/commit/b56fc155e180f4469360eab2247b4048c7a8ce24)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Removed appsettings.Development.json from VCS](https://github.com/not-ed/whoami-api/commit/1dac8d37742b9be319236166ac0726c063047867)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Wired up Key Vault secrets to App Service for database connectivity](https://github.com/not-ed/whoami-api/commit/c90d71854a11eb5536ac6a79f8110fe8e5b5cb0c)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[App Service: added SQL Server provider for EF Core](https://github.com/not-ed/whoami-api/commit/21db6922b843d58c0f33b47504859ed16c2363bd)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
 <!-- HISTORY_END -->
 
 </div>
