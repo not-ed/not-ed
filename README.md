@@ -162,32 +162,6 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
-> ### Thu. 18 June
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Replaced Github API-based links from GithubEventRepository.Url with lazy constructed URL from repo name](https://github.com/not-ed/whoami-api/commit/dfadcff74e5b55c39750956b2bf7d30e5f0f2c0f)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created GitHubFeedItemFactory for mapping Github Event types into FeedItems (with mappings for WatchEvents and unknown Events)](https://github.com/not-ed/whoami-api/commit/8c1b31c61b9c25e6a8c1c3ee86dcfd5a8b15ab28)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
-
-> ### Tue. 09 June
->
-> ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [microsoft/edit](https://github.com/microsoft/edit).
-
-> ### Sat. 30 May
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated Android Build actions to reference new .NET 10 version](https://github.com/not-ed/acai/commit/0aa2014b9882cafaf2a8e237aa9714f14984ffb5)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![DELETE](https://img.shields.io/badge/DELETE-E01142?style=flat-square) Deleted `macro-totals` branch in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Merge pull request #22 from not-ed/macro-totals](https://github.com/not-ed/acai/commit/4b18232d233a9ce59dc50ed5ce328a882ac61827)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [macro-totals](https://github.com/not-ed/acai/tree/macro-totals) branch on [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![DELETE](https://img.shields.io/badge/DELETE-E01142?style=flat-square) Deleted `dotnet10-upgrade` branch in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Merge pull request #21 from not-ed/dotnet10-upgrade](https://github.com/not-ed/acai/commit/f6b8d62d7b018c6e5d81f840a7bdc031a5f89194)" in [not-ed/acai](https://github.com/not-ed/acai).
->
-> ![CREATE](https://img.shields.io/badge/CREATE-11E05E?style=flat-square) Created [dotnet10-upgrade](https://github.com/not-ed/acai/tree/dotnet10-upgrade) branch on [not-ed/acai](https://github.com/not-ed/acai).
-
 <!-- HISTORY_END -->
 
 </div>
