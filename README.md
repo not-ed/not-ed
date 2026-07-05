@@ -162,6 +162,10 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Sun. 05 July
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created stubbed AniListWatchlistService for most recent manga/anime seen](https://github.com/not-ed/whoami-api/commit/c3ac59147ad39762790585cdfc2769c8caa806ef)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
 > ### Sat. 20 June
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added FeedItem mapping for Github PublicEvents](https://github.com/not-ed/whoami-api/commit/14896f3b729524b83a5f4b426f671402fa971364)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
