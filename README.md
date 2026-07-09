@@ -162,30 +162,6 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
-> ### Sun. 05 July
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created stubbed AniListWatchlistService for most recent manga/anime seen](https://github.com/not-ed/whoami-api/commit/c3ac59147ad39762790585cdfc2769c8caa806ef)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
-
-> ### Sat. 20 June
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added FeedItem mapping for Github PublicEvents](https://github.com/not-ed/whoami-api/commit/14896f3b729524b83a5f4b426f671402fa971364)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Changed color code for unknown Github event feed items](https://github.com/not-ed/whoami-api/commit/491505822797af508fad2615d196bde2c05528bb)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
-
-> ### Thu. 10 August
->
-> ![UNVEILED](https://img.shields.io/badge/UNVEILED-EDEDED?style=flat-square) Made [not-ed/events-sandbox](https://github.com/not-ed/events-sandbox) public.
-
-> ### Thu. 18 June
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Replaced Github API-based links from GithubEventRepository.Url with lazy constructed URL from repo name](https://github.com/not-ed/whoami-api/commit/dfadcff74e5b55c39750956b2bf7d30e5f0f2c0f)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created GitHubFeedItemFactory for mapping Github Event types into FeedItems (with mappings for WatchEvents and unknown Events)](https://github.com/not-ed/whoami-api/commit/8c1b31c61b9c25e6a8c1c3ee86dcfd5a8b15ab28)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
-
-> ### Tue. 09 June
->
-> ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [microsoft/edit](https://github.com/microsoft/edit).
-
 <!-- HISTORY_END -->
 
 </div>
