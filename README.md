@@ -180,7 +180,7 @@ SQLite
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Replaced Github API-based links from GithubEventRepository.Url with lazy constructed URL from repo name](https://github.com/not-ed/whoami-api/commit/dfadcff74e5b55c39750956b2bf7d30e5f0f2c0f)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 >
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created GitHubFeedItemFactory for mapping Github Event types into FeedItems (with mappings for WatchEvents and unknown Events)](https://github.com/not-ed/whoami-api/commit/8c1b31c61b9c25e6a8c1c3ee86dcfd5a8b15ab28)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed a commit to [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 
 <!-- HISTORY_END -->
 
