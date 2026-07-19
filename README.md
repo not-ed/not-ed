@@ -164,6 +164,10 @@ SQLite
 
 > ### Sun. 19 July
 >
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created anilist_titles and pending_anilist_approvals Tables in SQL Server](https://github.com/not-ed/whoami-api/commit/0f3b973911c7356e721d173e18c72ac47a67d5cf)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added new anilist_titles_import function for saving an AniList user's watch activity](https://github.com/not-ed/whoami-api/commit/4477d17f354fd29dab2f110925d80d348370d058)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Merge branch 'main' of https://github.com/not-ed/whoami-api](https://github.com/not-ed/whoami-api/commit/282c8f8d99f1c82562f1e13989c07b2a39d1bfb8)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 
 > ### Sun. 05 July
