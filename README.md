@@ -176,10 +176,6 @@ SQLite
 >
 > ![UNVEILED](https://img.shields.io/badge/UNVEILED-EDEDED?style=flat-square) Made [not-ed/events-sandbox](https://github.com/not-ed/events-sandbox) public.
 
-> ### Thu. 18 June
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Replaced Github API-based links from GithubEventRepository.Url with lazy constructed URL from repo name](https://github.com/not-ed/whoami-api/commit/dfadcff74e5b55c39750956b2bf7d30e5f0f2c0f)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
-
 <!-- HISTORY_END -->
 
 </div>
