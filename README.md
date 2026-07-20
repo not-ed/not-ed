@@ -162,6 +162,10 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Mon. 20 July
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added missing AniListUsername environment variable to Azure Functions README](https://github.com/not-ed/whoami-api/commit/6825679423270731f76c4c20cffcfadde436dadc)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
 > ### Sun. 19 July
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created anilist_titles and pending_anilist_approvals Tables in SQL Server](https://github.com/not-ed/whoami-api/commit/0f3b973911c7356e721d173e18c72ac47a67d5cf)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
