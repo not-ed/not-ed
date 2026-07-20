@@ -177,12 +177,6 @@ SQLite
 > ### Sat. 20 June
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added FeedItem mapping for Github PublicEvents](https://github.com/not-ed/whoami-api/commit/14896f3b729524b83a5f4b426f671402fa971364)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Changed color code for unknown Github event feed items](https://github.com/not-ed/whoami-api/commit/491505822797af508fad2615d196bde2c05528bb)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
-
-> ### Thu. 10 August
->
-> ![UNVEILED](https://img.shields.io/badge/UNVEILED-EDEDED?style=flat-square) Made [not-ed/events-sandbox](https://github.com/not-ed/events-sandbox) public.
 
 <!-- HISTORY_END -->
 
