@@ -162,24 +162,6 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
-> ### Mon. 20 July
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added missing os import to anilist.py in Azure Functions](https://github.com/not-ed/whoami-api/commit/6e7ddb917d51295367a816a01e306f17ef4d0dd8)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added missing AniListUsername environment variable to Azure Functions README](https://github.com/not-ed/whoami-api/commit/6825679423270731f76c4c20cffcfadde436dadc)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
-
-> ### Sun. 19 July
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created anilist_titles and pending_anilist_approvals Tables in SQL Server](https://github.com/not-ed/whoami-api/commit/0f3b973911c7356e721d173e18c72ac47a67d5cf)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added new anilist_titles_import function for saving an AniList user's watch activity](https://github.com/not-ed/whoami-api/commit/4477d17f354fd29dab2f110925d80d348370d058)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Merge branch 'main' of https://github.com/not-ed/whoami-api](https://github.com/not-ed/whoami-api/commit/282c8f8d99f1c82562f1e13989c07b2a39d1bfb8)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
-
-> ### Sun. 05 July
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created stubbed AniListWatchlistService for most recent manga/anime seen](https://github.com/not-ed/whoami-api/commit/c3ac59147ad39762790585cdfc2769c8caa806ef)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
-
 <!-- HISTORY_END -->
 
 </div>
