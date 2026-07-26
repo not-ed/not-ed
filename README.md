@@ -162,6 +162,10 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Sun. 26 July
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Refactor: moved SQL Server connection creation for Azure Functions into factory module](https://github.com/not-ed/whoami-api/commit/b9ebab0eece957d992a16b5558f0b43eb916ee98)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
 > ### Mon. 20 July
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added missing os import to anilist.py in Azure Functions](https://github.com/not-ed/whoami-api/commit/6e7ddb917d51295367a816a01e306f17ef4d0dd8)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
