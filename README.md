@@ -164,6 +164,8 @@ SQLite
 
 > ### Sun. 26 July
 >
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Refactor: moved environment variable retrieval into dedicated Module](https://github.com/not-ed/whoami-api/commit/ca4068792d317e16b790a8aa10d6f48a7c9e1329)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Refactor: moved SQL Server connection creation for Azure Functions into factory module](https://github.com/not-ed/whoami-api/commit/b9ebab0eece957d992a16b5558f0b43eb916ee98)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 
 > ### Mon. 20 July
