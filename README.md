@@ -164,6 +164,8 @@ SQLite
 
 > ### Sat. 01 August
 >
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Azure Function logic for approving / denying pending AniList titles](https://github.com/not-ed/whoami-api/commit/a2556e01a70202587929c2ed3a2d2c66aba387ee)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
 > ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio).
 
 > ### Sun. 26 July
@@ -187,10 +189,6 @@ SQLite
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added new anilist_titles_import function for saving an AniList user's watch activity](https://github.com/not-ed/whoami-api/commit/4477d17f354fd29dab2f110925d80d348370d058)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Merge branch 'main' of https://github.com/not-ed/whoami-api](https://github.com/not-ed/whoami-api/commit/282c8f8d99f1c82562f1e13989c07b2a39d1bfb8)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
-
-> ### Sun. 05 July
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created stubbed AniListWatchlistService for most recent manga/anime seen](https://github.com/not-ed/whoami-api/commit/c3ac59147ad39762790585cdfc2769c8caa806ef)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 
 <!-- HISTORY_END -->
 
