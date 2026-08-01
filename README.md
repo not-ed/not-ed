@@ -162,6 +162,10 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Sat. 01 August
+>
+> ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio).
+
 > ### Sun. 26 July
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added stub HTTP function triggers for allowing/denying display of saved AniList titles](https://github.com/not-ed/whoami-api/commit/365d75f8767548f278f0f004ff4da5a146288571)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
