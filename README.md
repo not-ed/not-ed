@@ -162,6 +162,10 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Mon. 10 August
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Key Vault Secret and Functions App Setting for setting a Notification URL via Discord Webhooks](https://github.com/not-ed/whoami-api/commit/5a55b2821e96da49d935f099472330ae912bba88)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
 > ### Sat. 01 August
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Azure Function logic for approving / denying pending AniList titles](https://github.com/not-ed/whoami-api/commit/a2556e01a70202587929c2ed3a2d2c66aba387ee)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
