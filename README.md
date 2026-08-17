@@ -164,13 +164,13 @@ SQLite
 
 > ### Sun. 16 August
 >
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added HTTP-Trigger Function for surfacing most recent approved AniList title](https://github.com/not-ed/whoami-api/commit/cb1f119dc6fb9eff341be7c0113e8c39f2cce6ba)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed a commit to [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 
 > ### Mon. 10 August
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created Module for sending Discord Webhook message to notify of new AniList titles pending approval.](https://github.com/not-ed/whoami-api/commit/ca33f8e419321fe657d041e495e7dd7bb3e5c482)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 >
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Key Vault Secret and Functions App Setting for setting a Notification URL via Discord Webhooks](https://github.com/not-ed/whoami-api/commit/5a55b2821e96da49d935f099472330ae912bba88)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed a commit to [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 
 > ### Sat. 01 August
 >
@@ -180,7 +180,7 @@ SQLite
 
 > ### Sun. 26 July
 >
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added stub HTTP function triggers for allowing/denying display of saved AniList titles](https://github.com/not-ed/whoami-api/commit/365d75f8767548f278f0f004ff4da5a146288571)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed a commit to [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Refactor: moved environment variable retrieval into dedicated Module](https://github.com/not-ed/whoami-api/commit/ca4068792d317e16b790a8aa10d6f48a7c9e1329)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 >
