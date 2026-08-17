@@ -174,7 +174,7 @@ SQLite
 
 > ### Sat. 01 August
 >
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed a commit to [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Azure Function logic for approving / denying pending AniList titles](https://github.com/not-ed/whoami-api/commit/a2556e01a70202587929c2ed3a2d2c66aba387ee)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 >
 > ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio).
 
