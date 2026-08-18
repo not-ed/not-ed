@@ -162,6 +162,36 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Sun. 16 August
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added HTTP-Trigger Function for surfacing most recent approved AniList title](https://github.com/not-ed/whoami-api/commit/cb1f119dc6fb9eff341be7c0113e8c39f2cce6ba)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
+> ### Mon. 10 August
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created Module for sending Discord Webhook message to notify of new AniList titles pending approval.](https://github.com/not-ed/whoami-api/commit/ca33f8e419321fe657d041e495e7dd7bb3e5c482)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Key Vault Secret and Functions App Setting for setting a Notification URL via Discord Webhooks](https://github.com/not-ed/whoami-api/commit/5a55b2821e96da49d935f099472330ae912bba88)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
+> ### Sat. 01 August
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Azure Function logic for approving / denying pending AniList titles](https://github.com/not-ed/whoami-api/commit/a2556e01a70202587929c2ed3a2d2c66aba387ee)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![STAR](https://img.shields.io/badge/STAR-F1CE12?style=flat-square) Starred [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio).
+
+> ### Sun. 26 July
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added stub HTTP function triggers for allowing/denying display of saved AniList titles](https://github.com/not-ed/whoami-api/commit/365d75f8767548f278f0f004ff4da5a146288571)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Refactor: moved environment variable retrieval into dedicated Module](https://github.com/not-ed/whoami-api/commit/ca4068792d317e16b790a8aa10d6f48a7c9e1329)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Refactor: moved SQL Server connection creation for Azure Functions into factory module](https://github.com/not-ed/whoami-api/commit/b9ebab0eece957d992a16b5558f0b43eb916ee98)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
+> ### Mon. 20 July
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added missing os import to anilist.py in Azure Functions](https://github.com/not-ed/whoami-api/commit/6e7ddb917d51295367a816a01e306f17ef4d0dd8)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added missing AniListUsername environment variable to Azure Functions README](https://github.com/not-ed/whoami-api/commit/6825679423270731f76c4c20cffcfadde436dadc)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
 <!-- HISTORY_END -->
 
 </div>
