@@ -164,7 +164,7 @@ SQLite
 
 > ### Sun. 16 August
 >
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed a commit to [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added HTTP-Trigger Function for surfacing most recent approved AniList title](https://github.com/not-ed/whoami-api/commit/cb1f119dc6fb9eff341be7c0113e8c39f2cce6ba)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 
 > ### Mon. 10 August
 >
