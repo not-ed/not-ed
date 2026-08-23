@@ -170,7 +170,7 @@ SQLite
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created Module for sending Discord Webhook message to notify of new AniList titles pending approval.](https://github.com/not-ed/whoami-api/commit/ca33f8e419321fe657d041e495e7dd7bb3e5c482)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 >
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed a commit to [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added Key Vault Secret and Functions App Setting for setting a Notification URL via Discord Webhooks](https://github.com/not-ed/whoami-api/commit/5a55b2821e96da49d935f099472330ae912bba88)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 
 > ### Sat. 01 August
 >
