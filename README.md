@@ -183,8 +183,6 @@ SQLite
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added stub HTTP function triggers for allowing/denying display of saved AniList titles](https://github.com/not-ed/whoami-api/commit/365d75f8767548f278f0f004ff4da5a146288571)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Refactor: moved environment variable retrieval into dedicated Module](https://github.com/not-ed/whoami-api/commit/ca4068792d317e16b790a8aa10d6f48a7c9e1329)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Refactor: moved SQL Server connection creation for Azure Functions into factory module](https://github.com/not-ed/whoami-api/commit/b9ebab0eece957d992a16b5558f0b43eb916ee98)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 
 <!-- HISTORY_END -->
 
