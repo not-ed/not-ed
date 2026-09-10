@@ -170,10 +170,6 @@ SQLite
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added HTTP-Trigger Function for surfacing most recent approved AniList title](https://github.com/not-ed/whoami-api/commit/cb1f119dc6fb9eff341be7c0113e8c39f2cce6ba)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
 
-> ### Mon. 10 August
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Created Module for sending Discord Webhook message to notify of new AniList titles pending approval.](https://github.com/not-ed/whoami-api/commit/ca33f8e419321fe657d041e495e7dd7bb3e5c482)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
-
 <!-- HISTORY_END -->
 
 </div>
