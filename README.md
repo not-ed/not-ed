@@ -166,10 +166,6 @@ SQLite
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated README with current role](https://github.com/not-ed/not-ed/commit/7a1bebb8bca3197ab2b8449f66f97164a2fcccac)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
 
-> ### Sun. 16 August
->
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added HTTP-Trigger Function for surfacing most recent approved AniList title](https://github.com/not-ed/whoami-api/commit/cb1f119dc6fb9eff341be7c0113e8c39f2cce6ba)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
-
 <!-- HISTORY_END -->
 
 </div>
