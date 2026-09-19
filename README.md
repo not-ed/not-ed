@@ -162,6 +162,10 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Sat. 19 September
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Corrected approval page HTML template typos](https://github.com/not-ed/whoami-api/commit/8544c70b7a92441da8f4b3aab07a3a0cf0b4f266)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
 > ### Sun. 30 August
 >
 > ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated README with current role](https://github.com/not-ed/not-ed/commit/7a1bebb8bca3197ab2b8449f66f97164a2fcccac)" in [not-ed/not-ed](https://github.com/not-ed/not-ed).
