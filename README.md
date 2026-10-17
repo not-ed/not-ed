@@ -162,6 +162,16 @@ SQLite
 <!-- Content is removed and re-populated here automatically by Github actions, do not put anything here manually.-->
 <!-- HISTORY_START -->
 
+> ### Tue. 06 October
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated AcaiMobile Project to target .NET 10](https://github.com/not-ed/acai/commit/5adc10cbfaa99cf23cad78ac1438a4e4960ff57b)" in [not-ed/acai](https://github.com/not-ed/acai).
+
+> ### Sat. 19 September
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Added functions for sending unsent approval prompts and displaying approval decision selection using templated HTML links](https://github.com/not-ed/whoami-api/commit/8aaba9a520e81680ae648f5667ff8bfe8ab18e6c)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+>
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Corrected approval page HTML template typos](https://github.com/not-ed/whoami-api/commit/8544c70b7a92441da8f4b3aab07a3a0cf0b4f266)" in [not-ed/whoami-api](https://github.com/not-ed/whoami-api).
+
 <!-- HISTORY_END -->
 
 </div>
