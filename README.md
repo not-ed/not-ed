@@ -164,7 +164,7 @@ SQLite
 
 > ### Tue. 06 October
 >
-> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) "[Updated AcaiMobile Project to target .NET 10](https://github.com/not-ed/acai/commit/5adc10cbfaa99cf23cad78ac1438a4e4960ff57b)" in [not-ed/acai](https://github.com/not-ed/acai).
+> ![COMMIT](https://img.shields.io/badge/COMMIT-1173E0?style=flat-square) Pushed a commit to [not-ed/acai](https://github.com/not-ed/acai).
 
 <!-- HISTORY_END -->
 
